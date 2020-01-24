@@ -5,6 +5,11 @@ Y Memory Latency Checker
 ## Usage
 
 ```
+gcc -O0 ymlc.c -o ymlc_exe
+numactl --physcpubind=0 --membind=0 ./ymlc_exe
+```
+or
+```
 run.sh make
 run.sh run
 ```
