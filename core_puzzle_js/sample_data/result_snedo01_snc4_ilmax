@@ -1,0 +1,5648 @@
+snedo01.m.gsic.titech.ac.jp
+  Cluster Mode: SNC4 Memory Mode: Flat
+core_list: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67]
+mcdram_mem_numa_list: [4, 5, 6, 7]
+dram_mem_numa_list: [0, 1, 2, 3]
+mcdram_interleave_num: 2
+dram_interleave_num: 1
+----------------------------------------------
+MCDRAM START
+mem numa: 4
+core: 0
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.595173
+Repeated test: Latency (ns): 158.396873
+Repeated test: Bandwidth (GB/s): 0.404049
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.673606
+Repeated test: Latency (ns): 163.184080
+Repeated test: Bandwidth (GB/s): 0.392195
+core: 1
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.592530
+Repeated test: Latency (ns): 158.235570
+Repeated test: Bandwidth (GB/s): 0.404461
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.671891
+Repeated test: Latency (ns): 163.079406
+Repeated test: Bandwidth (GB/s): 0.392447
+core: 2
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.600899
+Repeated test: Latency (ns): 158.746392
+Repeated test: Bandwidth (GB/s): 0.403159
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.682573
+Repeated test: Latency (ns): 163.731387
+Repeated test: Bandwidth (GB/s): 0.390884
+core: 3
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.600428
+Repeated test: Latency (ns): 158.717605
+Repeated test: Bandwidth (GB/s): 0.403232
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.683414
+Repeated test: Latency (ns): 163.782683
+Repeated test: Bandwidth (GB/s): 0.390762
+core: 4
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.611212
+Repeated test: Latency (ns): 159.375830
+Repeated test: Bandwidth (GB/s): 0.401567
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.640901
+Repeated test: Latency (ns): 161.187929
+Repeated test: Bandwidth (GB/s): 0.397052
+core: 5
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.611230
+Repeated test: Latency (ns): 159.376932
+Repeated test: Bandwidth (GB/s): 0.401564
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.640621
+Repeated test: Latency (ns): 161.170833
+Repeated test: Bandwidth (GB/s): 0.397094
+core: 6
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.617549
+Repeated test: Latency (ns): 159.762589
+Repeated test: Bandwidth (GB/s): 0.400595
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.645908
+Repeated test: Latency (ns): 161.493527
+Repeated test: Bandwidth (GB/s): 0.396301
+core: 7
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.617463
+Repeated test: Latency (ns): 159.757356
+Repeated test: Bandwidth (GB/s): 0.400608
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.645631
+Repeated test: Latency (ns): 161.476623
+Repeated test: Bandwidth (GB/s): 0.396342
+core: 8
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.628034
+Repeated test: Latency (ns): 160.402583
+Repeated test: Bandwidth (GB/s): 0.398996
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.654245
+Repeated test: Latency (ns): 162.002356
+Repeated test: Bandwidth (GB/s): 0.395056
+core: 9
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.628291
+Repeated test: Latency (ns): 160.418258
+Repeated test: Bandwidth (GB/s): 0.398957
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.653875
+Repeated test: Latency (ns): 161.979786
+Repeated test: Bandwidth (GB/s): 0.395111
+core: 10
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.650586
+Repeated test: Latency (ns): 161.779053
+Repeated test: Bandwidth (GB/s): 0.395602
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.669367
+Repeated test: Latency (ns): 162.925306
+Repeated test: Bandwidth (GB/s): 0.392818
+core: 11
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.650538
+Repeated test: Latency (ns): 161.776074
+Repeated test: Bandwidth (GB/s): 0.395609
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.669417
+Repeated test: Latency (ns): 162.928354
+Repeated test: Bandwidth (GB/s): 0.392811
+core: 12
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.632114
+Repeated test: Latency (ns): 160.651590
+Repeated test: Bandwidth (GB/s): 0.398378
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.669074
+Repeated test: Latency (ns): 162.907470
+Repeated test: Bandwidth (GB/s): 0.392861
+core: 13
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.634381
+Repeated test: Latency (ns): 160.789983
+Repeated test: Bandwidth (GB/s): 0.398035
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.669234
+Repeated test: Latency (ns): 162.917219
+Repeated test: Bandwidth (GB/s): 0.392838
+core: 15
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.648833
+Repeated test: Latency (ns): 161.672040
+Repeated test: Bandwidth (GB/s): 0.395863
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.680806
+Repeated test: Latency (ns): 163.623487
+Repeated test: Bandwidth (GB/s): 0.391142
+core: 16
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.662642
+Repeated test: Latency (ns): 162.514861
+Repeated test: Bandwidth (GB/s): 0.393810
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.698288
+Repeated test: Latency (ns): 164.690560
+Repeated test: Bandwidth (GB/s): 0.388608
+core: 17
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.662251
+Repeated test: Latency (ns): 162.490983
+Repeated test: Bandwidth (GB/s): 0.393868
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.698346
+Repeated test: Latency (ns): 164.694088
+Repeated test: Bandwidth (GB/s): 0.388599
+core: 18
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.686946
+Repeated test: Latency (ns): 163.998272
+Repeated test: Bandwidth (GB/s): 0.390248
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.727838
+Repeated test: Latency (ns): 166.494092
+Repeated test: Bandwidth (GB/s): 0.384398
+core: 19
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.686314
+Repeated test: Latency (ns): 163.959668
+Repeated test: Bandwidth (GB/s): 0.390340
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.727664
+Repeated test: Latency (ns): 166.483489
+Repeated test: Bandwidth (GB/s): 0.384423
+core: 20
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.692278
+Repeated test: Latency (ns): 164.323717
+Repeated test: Bandwidth (GB/s): 0.389475
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.733588
+Repeated test: Latency (ns): 166.845092
+Repeated test: Bandwidth (GB/s): 0.383590
+core: 21
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.691407
+Repeated test: Latency (ns): 164.270521
+Repeated test: Bandwidth (GB/s): 0.389601
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.733592
+Repeated test: Latency (ns): 166.845324
+Repeated test: Bandwidth (GB/s): 0.383589
+core: 22
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.714084
+Repeated test: Latency (ns): 165.654644
+Repeated test: Bandwidth (GB/s): 0.386346
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.749866
+Repeated test: Latency (ns): 167.838602
+Repeated test: Bandwidth (GB/s): 0.381319
+core: 23
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.714091
+Repeated test: Latency (ns): 165.655044
+Repeated test: Bandwidth (GB/s): 0.386345
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.748515
+Repeated test: Latency (ns): 167.756144
+Repeated test: Bandwidth (GB/s): 0.381506
+core: 24
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.715827
+Repeated test: Latency (ns): 165.761052
+Repeated test: Bandwidth (GB/s): 0.386098
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.754144
+Repeated test: Latency (ns): 168.099717
+Repeated test: Bandwidth (GB/s): 0.380727
+core: 25
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.715051
+Repeated test: Latency (ns): 165.713648
+Repeated test: Bandwidth (GB/s): 0.386209
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.753717
+Repeated test: Latency (ns): 168.073639
+Repeated test: Bandwidth (GB/s): 0.380786
+core: 26
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.717733
+Repeated test: Latency (ns): 165.877332
+Repeated test: Bandwidth (GB/s): 0.385828
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.757811
+Repeated test: Latency (ns): 168.323555
+Repeated test: Bandwidth (GB/s): 0.380220
+core: 27
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.716824
+Repeated test: Latency (ns): 165.821881
+Repeated test: Bandwidth (GB/s): 0.385957
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.756091
+Repeated test: Latency (ns): 168.218556
+Repeated test: Bandwidth (GB/s): 0.380458
+core: 28
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.733430
+Repeated test: Latency (ns): 166.835414
+Repeated test: Bandwidth (GB/s): 0.383612
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.766868
+Repeated test: Latency (ns): 168.876305
+Repeated test: Bandwidth (GB/s): 0.378976
+core: 29
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.734438
+Repeated test: Latency (ns): 166.896947
+Repeated test: Bandwidth (GB/s): 0.383470
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.766753
+Repeated test: Latency (ns): 168.869325
+Repeated test: Bandwidth (GB/s): 0.378992
+core: 30
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.747862
+Repeated test: Latency (ns): 167.716294
+Repeated test: Bandwidth (GB/s): 0.381597
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.784152
+Repeated test: Latency (ns): 169.931248
+Repeated test: Bandwidth (GB/s): 0.376623
+core: 31
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.748296
+Repeated test: Latency (ns): 167.742794
+Repeated test: Bandwidth (GB/s): 0.381537
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.783683
+Repeated test: Latency (ns): 169.902602
+Repeated test: Bandwidth (GB/s): 0.376687
+core: 32
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.765500
+Repeated test: Latency (ns): 168.792805
+Repeated test: Bandwidth (GB/s): 0.379163
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.800850
+Repeated test: Latency (ns): 170.950421
+Repeated test: Bandwidth (GB/s): 0.374378
+core: 33
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.764939
+Repeated test: Latency (ns): 168.758586
+Repeated test: Bandwidth (GB/s): 0.379240
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.800101
+Repeated test: Latency (ns): 170.904711
+Repeated test: Bandwidth (GB/s): 0.374478
+core: 34
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.770029
+Repeated test: Latency (ns): 169.069277
+Repeated test: Bandwidth (GB/s): 0.378543
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.807989
+Repeated test: Latency (ns): 171.386160
+Repeated test: Bandwidth (GB/s): 0.373426
+core: 35
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.770534
+Repeated test: Latency (ns): 169.100065
+Repeated test: Bandwidth (GB/s): 0.378474
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.807290
+Repeated test: Latency (ns): 171.343489
+Repeated test: Bandwidth (GB/s): 0.373519
+core: 36
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.670952
+Repeated test: Latency (ns): 163.022095
+Repeated test: Bandwidth (GB/s): 0.392585
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.748468
+Repeated test: Latency (ns): 167.753302
+Repeated test: Bandwidth (GB/s): 0.381513
+core: 37
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.670553
+Repeated test: Latency (ns): 162.997697
+Repeated test: Bandwidth (GB/s): 0.392644
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.748407
+Repeated test: Latency (ns): 167.749566
+Repeated test: Bandwidth (GB/s): 0.381521
+core: 38
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.690599
+Repeated test: Latency (ns): 164.221211
+Repeated test: Bandwidth (GB/s): 0.389718
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.765155
+Repeated test: Latency (ns): 168.771778
+Repeated test: Bandwidth (GB/s): 0.379211
+core: 39
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.690209
+Repeated test: Latency (ns): 164.197402
+Repeated test: Bandwidth (GB/s): 0.389775
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.765337
+Repeated test: Latency (ns): 168.782900
+Repeated test: Bandwidth (GB/s): 0.379186
+core: 40
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.661442
+Repeated test: Latency (ns): 162.441648
+Repeated test: Bandwidth (GB/s): 0.393988
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.704546
+Repeated test: Latency (ns): 165.072512
+Repeated test: Bandwidth (GB/s): 0.387709
+core: 41
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.660425
+Repeated test: Latency (ns): 162.379563
+Repeated test: Bandwidth (GB/s): 0.394139
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.704348
+Repeated test: Latency (ns): 165.060379
+Repeated test: Bandwidth (GB/s): 0.387737
+core: 42
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.674202
+Repeated test: Latency (ns): 163.220459
+Repeated test: Bandwidth (GB/s): 0.392108
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.722968
+Repeated test: Latency (ns): 166.196885
+Repeated test: Bandwidth (GB/s): 0.385086
+core: 43
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.673455
+Repeated test: Latency (ns): 163.174847
+Repeated test: Bandwidth (GB/s): 0.392218
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.722885
+Repeated test: Latency (ns): 166.191791
+Repeated test: Bandwidth (GB/s): 0.385097
+core: 44
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.697042
+Repeated test: Latency (ns): 164.614491
+Repeated test: Bandwidth (GB/s): 0.388787
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.744257
+Repeated test: Latency (ns): 167.496287
+Repeated test: Bandwidth (GB/s): 0.382098
+core: 45
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.697211
+Repeated test: Latency (ns): 164.624788
+Repeated test: Bandwidth (GB/s): 0.388763
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.743958
+Repeated test: Latency (ns): 167.478003
+Repeated test: Bandwidth (GB/s): 0.382140
+core: 46
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.678481
+Repeated test: Latency (ns): 163.481590
+Repeated test: Bandwidth (GB/s): 0.391482
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.717247
+Repeated test: Latency (ns): 165.847703
+Repeated test: Bandwidth (GB/s): 0.385896
+core: 47
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.677475
+Repeated test: Latency (ns): 163.420194
+Repeated test: Bandwidth (GB/s): 0.391629
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.717574
+Repeated test: Latency (ns): 165.867685
+Repeated test: Bandwidth (GB/s): 0.385850
+core: 48
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.702726
+Repeated test: Latency (ns): 164.961376
+Repeated test: Bandwidth (GB/s): 0.387970
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.740642
+Repeated test: Latency (ns): 167.275587
+Repeated test: Bandwidth (GB/s): 0.382602
+core: 49
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.702878
+Repeated test: Latency (ns): 164.970666
+Repeated test: Bandwidth (GB/s): 0.387948
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.740606
+Repeated test: Latency (ns): 167.273438
+Repeated test: Bandwidth (GB/s): 0.382607
+core: 50
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.730263
+Repeated test: Latency (ns): 166.642151
+Repeated test: Bandwidth (GB/s): 0.384057
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.763648
+Repeated test: Latency (ns): 168.679818
+Repeated test: Bandwidth (GB/s): 0.379417
+core: 51
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.724653
+Repeated test: Latency (ns): 166.299715
+Repeated test: Bandwidth (GB/s): 0.384848
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.758855
+Repeated test: Latency (ns): 168.387271
+Repeated test: Bandwidth (GB/s): 0.380076
+core: 52
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.736370
+Repeated test: Latency (ns): 167.014863
+Repeated test: Bandwidth (GB/s): 0.383200
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.767151
+Repeated test: Latency (ns): 168.893571
+Repeated test: Bandwidth (GB/s): 0.378937
+core: 53
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.736093
+Repeated test: Latency (ns): 166.997950
+Repeated test: Bandwidth (GB/s): 0.383238
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.766135
+Repeated test: Latency (ns): 168.831581
+Repeated test: Bandwidth (GB/s): 0.379076
+core: 54
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.757863
+Repeated test: Latency (ns): 168.326680
+Repeated test: Bandwidth (GB/s): 0.380213
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.794376
+Repeated test: Latency (ns): 170.555257
+Repeated test: Bandwidth (GB/s): 0.375245
+core: 55
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.757779
+Repeated test: Latency (ns): 168.321589
+Repeated test: Bandwidth (GB/s): 0.380225
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.793949
+Repeated test: Latency (ns): 170.529231
+Repeated test: Bandwidth (GB/s): 0.375302
+core: 56
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.775011
+Repeated test: Latency (ns): 169.373323
+Repeated test: Bandwidth (GB/s): 0.377864
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.812169
+Repeated test: Latency (ns): 171.641255
+Repeated test: Bandwidth (GB/s): 0.372871
+core: 57
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.776458
+Repeated test: Latency (ns): 169.461637
+Repeated test: Bandwidth (GB/s): 0.377667
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.811777
+Repeated test: Latency (ns): 171.617361
+Repeated test: Bandwidth (GB/s): 0.372923
+core: 58
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.777766
+Repeated test: Latency (ns): 169.541515
+Repeated test: Bandwidth (GB/s): 0.377489
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.814966
+Repeated test: Latency (ns): 171.811975
+Repeated test: Bandwidth (GB/s): 0.372500
+core: 59
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.777490
+Repeated test: Latency (ns): 169.524643
+Repeated test: Bandwidth (GB/s): 0.377526
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.815533
+Repeated test: Latency (ns): 171.846600
+Repeated test: Bandwidth (GB/s): 0.372425
+core: 60
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.796381
+Repeated test: Latency (ns): 170.677641
+Repeated test: Bandwidth (GB/s): 0.374976
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.831167
+Repeated test: Latency (ns): 172.800814
+Repeated test: Bandwidth (GB/s): 0.370369
+core: 61
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.795778
+Repeated test: Latency (ns): 170.640849
+Repeated test: Bandwidth (GB/s): 0.375057
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.831939
+Repeated test: Latency (ns): 172.847947
+Repeated test: Bandwidth (GB/s): 0.370268
+core: 62
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.819046
+Repeated test: Latency (ns): 172.061029
+Repeated test: Bandwidth (GB/s): 0.371961
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.852639
+Repeated test: Latency (ns): 174.111369
+Repeated test: Bandwidth (GB/s): 0.367581
+core: 63
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.818605
+Repeated test: Latency (ns): 172.034099
+Repeated test: Bandwidth (GB/s): 0.372019
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.853073
+Repeated test: Latency (ns): 174.137887
+Repeated test: Bandwidth (GB/s): 0.367525
+core: 64
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.838769
+Repeated test: Latency (ns): 173.264786
+Repeated test: Bandwidth (GB/s): 0.369377
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.877369
+Repeated test: Latency (ns): 175.620789
+Repeated test: Bandwidth (GB/s): 0.364422
+core: 65
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.838035
+Repeated test: Latency (ns): 173.220003
+Repeated test: Bandwidth (GB/s): 0.369473
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.877853
+Repeated test: Latency (ns): 175.650315
+Repeated test: Bandwidth (GB/s): 0.364361
+core: 66
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.856410
+Repeated test: Latency (ns): 174.341520
+Repeated test: Bandwidth (GB/s): 0.367096
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.893569
+Repeated test: Latency (ns): 176.609558
+Repeated test: Bandwidth (GB/s): 0.362382
+core: 67
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.855448
+Repeated test: Latency (ns): 174.282828
+Repeated test: Bandwidth (GB/s): 0.367219
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.894915
+Repeated test: Latency (ns): 176.691671
+Repeated test: Bandwidth (GB/s): 0.362213
+mem numa: 5
+core: 0
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.795643
+Repeated test: Latency (ns): 170.632634
+Repeated test: Bandwidth (GB/s): 0.375075
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.765609
+Repeated test: Latency (ns): 168.799464
+Repeated test: Bandwidth (GB/s): 0.379148
+core: 1
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.794507
+Repeated test: Latency (ns): 170.563281
+Repeated test: Bandwidth (GB/s): 0.375228
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.763305
+Repeated test: Latency (ns): 168.658850
+Repeated test: Bandwidth (GB/s): 0.379464
+core: 2
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.802859
+Repeated test: Latency (ns): 171.073063
+Repeated test: Bandwidth (GB/s): 0.374109
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.768928
+Repeated test: Latency (ns): 169.002039
+Repeated test: Bandwidth (GB/s): 0.378694
+core: 3
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.801988
+Repeated test: Latency (ns): 171.019869
+Repeated test: Bandwidth (GB/s): 0.374226
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.769556
+Repeated test: Latency (ns): 169.040403
+Repeated test: Bandwidth (GB/s): 0.378608
+core: 4
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.750843
+Repeated test: Latency (ns): 167.898209
+Repeated test: Bandwidth (GB/s): 0.381184
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.715312
+Repeated test: Latency (ns): 165.729589
+Repeated test: Bandwidth (GB/s): 0.386171
+core: 5
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.750528
+Repeated test: Latency (ns): 167.878996
+Repeated test: Bandwidth (GB/s): 0.381227
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.714706
+Repeated test: Latency (ns): 165.692600
+Repeated test: Bandwidth (GB/s): 0.386258
+core: 6
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.754644
+Repeated test: Latency (ns): 168.130229
+Repeated test: Bandwidth (GB/s): 0.380658
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.716205
+Repeated test: Latency (ns): 165.784118
+Repeated test: Bandwidth (GB/s): 0.386044
+core: 7
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.755196
+Repeated test: Latency (ns): 168.163948
+Repeated test: Bandwidth (GB/s): 0.380581
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.716260
+Repeated test: Latency (ns): 165.787451
+Repeated test: Bandwidth (GB/s): 0.386037
+core: 8
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.764175
+Repeated test: Latency (ns): 168.711983
+Repeated test: Bandwidth (GB/s): 0.379345
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.732890
+Repeated test: Latency (ns): 166.802490
+Repeated test: Bandwidth (GB/s): 0.383688
+core: 9
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.764053
+Repeated test: Latency (ns): 168.704519
+Repeated test: Bandwidth (GB/s): 0.379362
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.732692
+Repeated test: Latency (ns): 166.790373
+Repeated test: Bandwidth (GB/s): 0.383715
+core: 10
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.780281
+Repeated test: Latency (ns): 169.694996
+Repeated test: Bandwidth (GB/s): 0.377147
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.746854
+Repeated test: Latency (ns): 167.654791
+Repeated test: Bandwidth (GB/s): 0.381737
+core: 11
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.780102
+Repeated test: Latency (ns): 169.684047
+Repeated test: Bandwidth (GB/s): 0.377172
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.747545
+Repeated test: Latency (ns): 167.696962
+Repeated test: Bandwidth (GB/s): 0.381641
+core: 12
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.721439
+Repeated test: Latency (ns): 166.103576
+Repeated test: Bandwidth (GB/s): 0.385302
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.686874
+Repeated test: Latency (ns): 163.993857
+Repeated test: Bandwidth (GB/s): 0.390259
+core: 13
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.721164
+Repeated test: Latency (ns): 166.086752
+Repeated test: Bandwidth (GB/s): 0.385341
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.686618
+Repeated test: Latency (ns): 163.978235
+Repeated test: Bandwidth (GB/s): 0.390296
+core: 15
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.727947
+Repeated test: Latency (ns): 166.500794
+Repeated test: Bandwidth (GB/s): 0.384383
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.691443
+Repeated test: Latency (ns): 164.272747
+Repeated test: Bandwidth (GB/s): 0.389596
+core: 16
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.745945
+Repeated test: Latency (ns): 167.599255
+Repeated test: Bandwidth (GB/s): 0.381864
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.714334
+Repeated test: Latency (ns): 165.669904
+Repeated test: Bandwidth (GB/s): 0.386311
+core: 17
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.746325
+Repeated test: Latency (ns): 167.622502
+Repeated test: Bandwidth (GB/s): 0.381811
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.714034
+Repeated test: Latency (ns): 165.651600
+Repeated test: Bandwidth (GB/s): 0.386353
+core: 18
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.668791
+Repeated test: Latency (ns): 162.890186
+Repeated test: Bandwidth (GB/s): 0.392903
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.632911
+Repeated test: Latency (ns): 160.700227
+Repeated test: Bandwidth (GB/s): 0.398257
+core: 19
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.668751
+Repeated test: Latency (ns): 162.887721
+Repeated test: Bandwidth (GB/s): 0.392909
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.632376
+Repeated test: Latency (ns): 160.667593
+Repeated test: Bandwidth (GB/s): 0.398338
+core: 20
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.678444
+Repeated test: Latency (ns): 163.479323
+Repeated test: Bandwidth (GB/s): 0.391487
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.649571
+Repeated test: Latency (ns): 161.717081
+Repeated test: Bandwidth (GB/s): 0.395753
+core: 21
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.678935
+Repeated test: Latency (ns): 163.509297
+Repeated test: Bandwidth (GB/s): 0.391415
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.648969
+Repeated test: Latency (ns): 161.680363
+Repeated test: Bandwidth (GB/s): 0.395843
+core: 22
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.695980
+Repeated test: Latency (ns): 164.549648
+Repeated test: Bandwidth (GB/s): 0.388941
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.663080
+Repeated test: Latency (ns): 162.541622
+Repeated test: Bandwidth (GB/s): 0.393746
+core: 23
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.695447
+Repeated test: Latency (ns): 164.517107
+Repeated test: Bandwidth (GB/s): 0.389018
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.663287
+Repeated test: Latency (ns): 162.554241
+Repeated test: Bandwidth (GB/s): 0.393715
+core: 24
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.639369
+Repeated test: Latency (ns): 161.094427
+Repeated test: Bandwidth (GB/s): 0.397283
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.610873
+Repeated test: Latency (ns): 159.355165
+Repeated test: Bandwidth (GB/s): 0.401619
+core: 25
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.639010
+Repeated test: Latency (ns): 161.072468
+Repeated test: Bandwidth (GB/s): 0.397337
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.610846
+Repeated test: Latency (ns): 159.353467
+Repeated test: Bandwidth (GB/s): 0.401623
+core: 26
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.644392
+Repeated test: Latency (ns): 161.400965
+Repeated test: Bandwidth (GB/s): 0.396528
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.617534
+Repeated test: Latency (ns): 159.761672
+Repeated test: Bandwidth (GB/s): 0.400597
+core: 27
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.643410
+Repeated test: Latency (ns): 161.341027
+Repeated test: Bandwidth (GB/s): 0.396676
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.616555
+Repeated test: Latency (ns): 159.701920
+Repeated test: Bandwidth (GB/s): 0.400747
+core: 28
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.653016
+Repeated test: Latency (ns): 161.927329
+Repeated test: Bandwidth (GB/s): 0.395239
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.627169
+Repeated test: Latency (ns): 160.349782
+Repeated test: Bandwidth (GB/s): 0.399128
+core: 29
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.653279
+Repeated test: Latency (ns): 161.943400
+Repeated test: Bandwidth (GB/s): 0.395200
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.626977
+Repeated test: Latency (ns): 160.338049
+Repeated test: Bandwidth (GB/s): 0.399157
+core: 30
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.670805
+Repeated test: Latency (ns): 163.013086
+Repeated test: Bandwidth (GB/s): 0.392607
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.648732
+Repeated test: Latency (ns): 161.665871
+Repeated test: Bandwidth (GB/s): 0.395878
+core: 31
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.669730
+Repeated test: Latency (ns): 162.947512
+Repeated test: Bandwidth (GB/s): 0.392765
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.648425
+Repeated test: Latency (ns): 161.647155
+Repeated test: Bandwidth (GB/s): 0.395924
+core: 32
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.674144
+Repeated test: Latency (ns): 163.216870
+Repeated test: Bandwidth (GB/s): 0.392117
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.594040
+Repeated test: Latency (ns): 158.327764
+Repeated test: Bandwidth (GB/s): 0.404225
+core: 33
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.672552
+Repeated test: Latency (ns): 163.119727
+Repeated test: Bandwidth (GB/s): 0.392350
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.593318
+Repeated test: Latency (ns): 158.283639
+Repeated test: Bandwidth (GB/s): 0.404338
+core: 34
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.681627
+Repeated test: Latency (ns): 163.673600
+Repeated test: Bandwidth (GB/s): 0.391022
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.602413
+Repeated test: Latency (ns): 158.838789
+Repeated test: Bandwidth (GB/s): 0.402924
+core: 35
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.682139
+Repeated test: Latency (ns): 163.704893
+Repeated test: Bandwidth (GB/s): 0.390948
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.602545
+Repeated test: Latency (ns): 158.846829
+Repeated test: Bandwidth (GB/s): 0.402904
+core: 36
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.874116
+Repeated test: Latency (ns): 175.422208
+Repeated test: Bandwidth (GB/s): 0.364834
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.839196
+Repeated test: Latency (ns): 173.290867
+Repeated test: Bandwidth (GB/s): 0.369321
+core: 37
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.873606
+Repeated test: Latency (ns): 175.391081
+Repeated test: Bandwidth (GB/s): 0.364899
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.837935
+Repeated test: Latency (ns): 173.213892
+Repeated test: Bandwidth (GB/s): 0.369486
+core: 38
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.890622
+Repeated test: Latency (ns): 176.429703
+Repeated test: Bandwidth (GB/s): 0.362751
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.855350
+Repeated test: Latency (ns): 174.276823
+Repeated test: Bandwidth (GB/s): 0.367232
+core: 39
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.890714
+Repeated test: Latency (ns): 176.435273
+Repeated test: Bandwidth (GB/s): 0.362739
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.854878
+Repeated test: Latency (ns): 174.248062
+Repeated test: Bandwidth (GB/s): 0.367293
+core: 40
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.808250
+Repeated test: Latency (ns): 171.402102
+Repeated test: Bandwidth (GB/s): 0.373391
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.777293
+Repeated test: Latency (ns): 169.512593
+Repeated test: Bandwidth (GB/s): 0.377553
+core: 41
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.808653
+Repeated test: Latency (ns): 171.426699
+Repeated test: Bandwidth (GB/s): 0.373338
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.777464
+Repeated test: Latency (ns): 169.523081
+Repeated test: Bandwidth (GB/s): 0.377530
+core: 42
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.828123
+Repeated test: Latency (ns): 172.615037
+Repeated test: Bandwidth (GB/s): 0.370767
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.795995
+Repeated test: Latency (ns): 170.654074
+Repeated test: Bandwidth (GB/s): 0.375028
+core: 43
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.826840
+Repeated test: Latency (ns): 172.536735
+Repeated test: Bandwidth (GB/s): 0.370936
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.795563
+Repeated test: Latency (ns): 170.627707
+Repeated test: Bandwidth (GB/s): 0.375086
+core: 44
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.854506
+Repeated test: Latency (ns): 174.225330
+Repeated test: Bandwidth (GB/s): 0.367341
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.820585
+Repeated test: Latency (ns): 172.154964
+Repeated test: Bandwidth (GB/s): 0.371758
+core: 45
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.855137
+Repeated test: Latency (ns): 174.263821
+Repeated test: Bandwidth (GB/s): 0.367259
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.820566
+Repeated test: Latency (ns): 172.153764
+Repeated test: Bandwidth (GB/s): 0.371761
+core: 46
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.764754
+Repeated test: Latency (ns): 168.747316
+Repeated test: Bandwidth (GB/s): 0.379266
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.735976
+Repeated test: Latency (ns): 166.990807
+Repeated test: Bandwidth (GB/s): 0.383255
+core: 47
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.764441
+Repeated test: Latency (ns): 168.728222
+Repeated test: Bandwidth (GB/s): 0.379308
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.735931
+Repeated test: Latency (ns): 166.988088
+Repeated test: Bandwidth (GB/s): 0.383261
+core: 48
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.790089
+Repeated test: Latency (ns): 170.293614
+Repeated test: Bandwidth (GB/s): 0.375822
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.757295
+Repeated test: Latency (ns): 168.292050
+Repeated test: Bandwidth (GB/s): 0.380292
+core: 49
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.790146
+Repeated test: Latency (ns): 170.297104
+Repeated test: Bandwidth (GB/s): 0.375814
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.757921
+Repeated test: Latency (ns): 168.330227
+Repeated test: Bandwidth (GB/s): 0.380205
+core: 50
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.810465
+Repeated test: Latency (ns): 171.537288
+Repeated test: Bandwidth (GB/s): 0.373097
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.779948
+Repeated test: Latency (ns): 169.674659
+Repeated test: Bandwidth (GB/s): 0.377193
+core: 51
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.804914
+Repeated test: Latency (ns): 171.198495
+Repeated test: Bandwidth (GB/s): 0.373835
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.774888
+Repeated test: Latency (ns): 169.365820
+Repeated test: Bandwidth (GB/s): 0.377880
+core: 52
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.713756
+Repeated test: Latency (ns): 165.634592
+Repeated test: Bandwidth (GB/s): 0.386393
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.677750
+Repeated test: Latency (ns): 163.436978
+Repeated test: Bandwidth (GB/s): 0.391588
+core: 53
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.714340
+Repeated test: Latency (ns): 165.670250
+Repeated test: Bandwidth (GB/s): 0.386310
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.678372
+Repeated test: Latency (ns): 163.474931
+Repeated test: Bandwidth (GB/s): 0.391498
+core: 54
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.737893
+Repeated test: Latency (ns): 167.107857
+Repeated test: Bandwidth (GB/s): 0.382986
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.703489
+Repeated test: Latency (ns): 165.007979
+Repeated test: Bandwidth (GB/s): 0.387860
+core: 55
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.737479
+Repeated test: Latency (ns): 167.082580
+Repeated test: Bandwidth (GB/s): 0.383044
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.703389
+Repeated test: Latency (ns): 165.001842
+Repeated test: Bandwidth (GB/s): 0.387875
+core: 56
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.756615
+Repeated test: Latency (ns): 168.250509
+Repeated test: Bandwidth (GB/s): 0.380385
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.724512
+Repeated test: Latency (ns): 166.291108
+Repeated test: Bandwidth (GB/s): 0.384867
+core: 57
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.757338
+Repeated test: Latency (ns): 168.294668
+Repeated test: Bandwidth (GB/s): 0.380286
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.723986
+Repeated test: Latency (ns): 166.258988
+Repeated test: Bandwidth (GB/s): 0.384942
+core: 58
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.701919
+Repeated test: Latency (ns): 164.912175
+Repeated test: Bandwidth (GB/s): 0.388086
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.659660
+Repeated test: Latency (ns): 162.332862
+Repeated test: Bandwidth (GB/s): 0.394252
+core: 59
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.700976
+Repeated test: Latency (ns): 164.854601
+Repeated test: Bandwidth (GB/s): 0.388221
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.660536
+Repeated test: Latency (ns): 162.386335
+Repeated test: Bandwidth (GB/s): 0.394122
+core: 60
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.717557
+Repeated test: Latency (ns): 165.866600
+Repeated test: Bandwidth (GB/s): 0.385852
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.675020
+Repeated test: Latency (ns): 163.270339
+Repeated test: Bandwidth (GB/s): 0.391988
+core: 61
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.716822
+Repeated test: Latency (ns): 165.821755
+Repeated test: Bandwidth (GB/s): 0.385957
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.675739
+Repeated test: Latency (ns): 163.314221
+Repeated test: Bandwidth (GB/s): 0.391883
+core: 62
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.723530
+Repeated test: Latency (ns): 166.231192
+Repeated test: Bandwidth (GB/s): 0.385006
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.650218
+Repeated test: Latency (ns): 161.756552
+Repeated test: Bandwidth (GB/s): 0.395657
+core: 63
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.722303
+Repeated test: Latency (ns): 166.156312
+Repeated test: Bandwidth (GB/s): 0.385180
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.650500
+Repeated test: Latency (ns): 161.773754
+Repeated test: Bandwidth (GB/s): 0.395614
+core: 64
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.747732
+Repeated test: Latency (ns): 167.708331
+Repeated test: Bandwidth (GB/s): 0.381615
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.673321
+Repeated test: Latency (ns): 163.166669
+Repeated test: Bandwidth (GB/s): 0.392237
+core: 65
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.747646
+Repeated test: Latency (ns): 167.703089
+Repeated test: Bandwidth (GB/s): 0.381627
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.673897
+Repeated test: Latency (ns): 163.201808
+Repeated test: Bandwidth (GB/s): 0.392153
+core: 66
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.764837
+Repeated test: Latency (ns): 168.752361
+Repeated test: Bandwidth (GB/s): 0.379254
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.689367
+Repeated test: Latency (ns): 164.146038
+Repeated test: Bandwidth (GB/s): 0.389897
+core: 67
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.764098
+Repeated test: Latency (ns): 168.707246
+Repeated test: Bandwidth (GB/s): 0.379356
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.689257
+Repeated test: Latency (ns): 164.139341
+Repeated test: Bandwidth (GB/s): 0.389913
+mem numa: 6
+core: 0
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.692216
+Repeated test: Latency (ns): 164.319951
+Repeated test: Bandwidth (GB/s): 0.389484
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.760639
+Repeated test: Latency (ns): 168.496121
+Repeated test: Bandwidth (GB/s): 0.379831
+core: 1
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.689485
+Repeated test: Latency (ns): 164.153230
+Repeated test: Bandwidth (GB/s): 0.389880
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.758077
+Repeated test: Latency (ns): 168.339738
+Repeated test: Bandwidth (GB/s): 0.380184
+core: 2
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.665742
+Repeated test: Latency (ns): 162.704095
+Repeated test: Bandwidth (GB/s): 0.393352
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.735713
+Repeated test: Latency (ns): 166.974755
+Repeated test: Bandwidth (GB/s): 0.383292
+core: 3
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.664731
+Repeated test: Latency (ns): 162.642387
+Repeated test: Bandwidth (GB/s): 0.393502
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.734855
+Repeated test: Latency (ns): 166.922414
+Repeated test: Bandwidth (GB/s): 0.383412
+core: 4
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.704835
+Repeated test: Latency (ns): 165.090154
+Repeated test: Bandwidth (GB/s): 0.387667
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.727033
+Repeated test: Latency (ns): 166.444988
+Repeated test: Bandwidth (GB/s): 0.384512
+core: 5
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.705330
+Repeated test: Latency (ns): 165.120340
+Repeated test: Bandwidth (GB/s): 0.387596
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.727048
+Repeated test: Latency (ns): 166.445931
+Repeated test: Bandwidth (GB/s): 0.384509
+core: 6
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.678582
+Repeated test: Latency (ns): 163.487748
+Repeated test: Bandwidth (GB/s): 0.391467
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.710623
+Repeated test: Latency (ns): 165.443425
+Repeated test: Bandwidth (GB/s): 0.386839
+core: 7
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.678567
+Repeated test: Latency (ns): 163.486875
+Repeated test: Bandwidth (GB/s): 0.391469
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.710855
+Repeated test: Latency (ns): 165.457567
+Repeated test: Bandwidth (GB/s): 0.386806
+core: 8
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.663635
+Repeated test: Latency (ns): 162.575464
+Repeated test: Bandwidth (GB/s): 0.393664
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.683471
+Repeated test: Latency (ns): 163.786165
+Repeated test: Bandwidth (GB/s): 0.390754
+core: 9
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.664522
+Repeated test: Latency (ns): 162.629606
+Repeated test: Bandwidth (GB/s): 0.393533
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.683143
+Repeated test: Latency (ns): 163.766122
+Repeated test: Bandwidth (GB/s): 0.390801
+core: 10
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.648444
+Repeated test: Latency (ns): 161.648283
+Repeated test: Bandwidth (GB/s): 0.395922
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.668493
+Repeated test: Latency (ns): 162.871996
+Repeated test: Bandwidth (GB/s): 0.392947
+core: 11
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.648114
+Repeated test: Latency (ns): 161.628120
+Repeated test: Bandwidth (GB/s): 0.395971
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.667927
+Repeated test: Latency (ns): 162.837420
+Repeated test: Bandwidth (GB/s): 0.393030
+core: 12
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.702109
+Repeated test: Latency (ns): 164.923761
+Repeated test: Bandwidth (GB/s): 0.388058
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.735608
+Repeated test: Latency (ns): 166.968354
+Repeated test: Bandwidth (GB/s): 0.383306
+core: 13
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.702278
+Repeated test: Latency (ns): 164.934088
+Repeated test: Bandwidth (GB/s): 0.388034
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.736287
+Repeated test: Latency (ns): 167.009788
+Repeated test: Bandwidth (GB/s): 0.383211
+core: 15
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.672697
+Repeated test: Latency (ns): 163.128573
+Repeated test: Bandwidth (GB/s): 0.392329
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.705685
+Repeated test: Latency (ns): 165.142031
+Repeated test: Bandwidth (GB/s): 0.387545
+core: 16
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.661581
+Repeated test: Latency (ns): 162.450126
+Repeated test: Bandwidth (GB/s): 0.393967
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.691041
+Repeated test: Latency (ns): 164.248198
+Repeated test: Bandwidth (GB/s): 0.389654
+core: 17
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.661610
+Repeated test: Latency (ns): 162.451891
+Repeated test: Bandwidth (GB/s): 0.393963
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.691369
+Repeated test: Latency (ns): 164.268202
+Repeated test: Bandwidth (GB/s): 0.389607
+core: 18
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.751398
+Repeated test: Latency (ns): 167.932108
+Repeated test: Bandwidth (GB/s): 0.381107
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.783724
+Repeated test: Latency (ns): 169.905106
+Repeated test: Bandwidth (GB/s): 0.376681
+core: 19
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.751575
+Repeated test: Latency (ns): 167.942890
+Repeated test: Bandwidth (GB/s): 0.381082
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.783583
+Repeated test: Latency (ns): 169.896533
+Repeated test: Bandwidth (GB/s): 0.376700
+core: 20
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.737173
+Repeated test: Latency (ns): 167.063860
+Repeated test: Bandwidth (GB/s): 0.383087
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.760898
+Repeated test: Latency (ns): 168.511930
+Repeated test: Bandwidth (GB/s): 0.379795
+core: 21
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.736821
+Repeated test: Latency (ns): 167.042422
+Repeated test: Bandwidth (GB/s): 0.383136
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.761024
+Repeated test: Latency (ns): 168.519635
+Repeated test: Bandwidth (GB/s): 0.379778
+core: 22
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.712169
+Repeated test: Latency (ns): 165.537736
+Repeated test: Bandwidth (GB/s): 0.386619
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.740335
+Repeated test: Latency (ns): 167.256897
+Repeated test: Bandwidth (GB/s): 0.382645
+core: 23
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.711533
+Repeated test: Latency (ns): 165.498957
+Repeated test: Bandwidth (GB/s): 0.386710
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.739730
+Repeated test: Latency (ns): 167.219957
+Repeated test: Bandwidth (GB/s): 0.382730
+core: 24
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.807197
+Repeated test: Latency (ns): 171.337835
+Repeated test: Bandwidth (GB/s): 0.373531
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.834148
+Repeated test: Latency (ns): 172.982786
+Repeated test: Bandwidth (GB/s): 0.369979
+core: 25
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.806604
+Repeated test: Latency (ns): 171.301621
+Repeated test: Bandwidth (GB/s): 0.373610
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.834260
+Repeated test: Latency (ns): 172.989620
+Repeated test: Bandwidth (GB/s): 0.369965
+core: 26
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.790791
+Repeated test: Latency (ns): 170.336490
+Repeated test: Bandwidth (GB/s): 0.375727
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.820268
+Repeated test: Latency (ns): 172.135580
+Repeated test: Bandwidth (GB/s): 0.371800
+core: 27
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.791091
+Repeated test: Latency (ns): 170.354770
+Repeated test: Bandwidth (GB/s): 0.375687
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.819648
+Repeated test: Latency (ns): 172.097776
+Repeated test: Bandwidth (GB/s): 0.371882
+core: 28
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.765208
+Repeated test: Latency (ns): 168.775000
+Repeated test: Bandwidth (GB/s): 0.379203
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.799302
+Repeated test: Latency (ns): 170.855916
+Repeated test: Bandwidth (GB/s): 0.374585
+core: 29
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.765957
+Repeated test: Latency (ns): 168.820726
+Repeated test: Bandwidth (GB/s): 0.379101
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.799858
+Repeated test: Latency (ns): 170.889893
+Repeated test: Bandwidth (GB/s): 0.374510
+core: 30
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.749095
+Repeated test: Latency (ns): 167.791528
+Repeated test: Bandwidth (GB/s): 0.381426
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.778594
+Repeated test: Latency (ns): 169.592030
+Repeated test: Bandwidth (GB/s): 0.377376
+core: 31
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.749234
+Repeated test: Latency (ns): 167.800022
+Repeated test: Bandwidth (GB/s): 0.381407
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.778258
+Repeated test: Latency (ns): 169.571486
+Repeated test: Bandwidth (GB/s): 0.377422
+core: 32
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.856194
+Repeated test: Latency (ns): 174.328350
+Repeated test: Bandwidth (GB/s): 0.367124
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.890664
+Repeated test: Latency (ns): 176.432217
+Repeated test: Bandwidth (GB/s): 0.362746
+core: 33
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.855301
+Repeated test: Latency (ns): 174.273869
+Repeated test: Bandwidth (GB/s): 0.367238
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.889431
+Repeated test: Latency (ns): 176.356977
+Repeated test: Bandwidth (GB/s): 0.362901
+core: 34
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.833355
+Repeated test: Latency (ns): 172.934394
+Repeated test: Bandwidth (GB/s): 0.370083
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.867841
+Repeated test: Latency (ns): 175.039260
+Repeated test: Bandwidth (GB/s): 0.365632
+core: 35
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.833344
+Repeated test: Latency (ns): 172.933719
+Repeated test: Bandwidth (GB/s): 0.370084
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.867015
+Repeated test: Latency (ns): 174.988793
+Repeated test: Bandwidth (GB/s): 0.365738
+core: 36
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.585149
+Repeated test: Latency (ns): 157.785099
+Repeated test: Bandwidth (GB/s): 0.405615
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.665056
+Repeated test: Latency (ns): 162.662199
+Repeated test: Bandwidth (GB/s): 0.393454
+core: 37
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.584790
+Repeated test: Latency (ns): 157.763137
+Repeated test: Bandwidth (GB/s): 0.405672
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.663636
+Repeated test: Latency (ns): 162.575551
+Repeated test: Bandwidth (GB/s): 0.393663
+core: 38
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.576825
+Repeated test: Latency (ns): 157.277016
+Repeated test: Bandwidth (GB/s): 0.406926
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.655799
+Repeated test: Latency (ns): 162.097194
+Repeated test: Bandwidth (GB/s): 0.394825
+core: 39
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.576850
+Repeated test: Latency (ns): 157.278559
+Repeated test: Bandwidth (GB/s): 0.406922
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.655578
+Repeated test: Latency (ns): 162.083704
+Repeated test: Bandwidth (GB/s): 0.394858
+core: 40
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.613557
+Repeated test: Latency (ns): 159.518970
+Repeated test: Bandwidth (GB/s): 0.401206
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.652076
+Repeated test: Latency (ns): 161.869959
+Repeated test: Bandwidth (GB/s): 0.395379
+core: 41
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.612855
+Repeated test: Latency (ns): 159.476112
+Repeated test: Bandwidth (GB/s): 0.401314
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.652191
+Repeated test: Latency (ns): 161.877018
+Repeated test: Bandwidth (GB/s): 0.395362
+core: 42
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.598842
+Repeated test: Latency (ns): 158.620837
+Repeated test: Bandwidth (GB/s): 0.403478
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.638441
+Repeated test: Latency (ns): 161.037773
+Repeated test: Bandwidth (GB/s): 0.397423
+core: 43
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.597898
+Repeated test: Latency (ns): 158.563201
+Repeated test: Bandwidth (GB/s): 0.403625
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.638511
+Repeated test: Latency (ns): 161.042032
+Repeated test: Bandwidth (GB/s): 0.397412
+core: 44
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.593021
+Repeated test: Latency (ns): 158.265522
+Repeated test: Bandwidth (GB/s): 0.404384
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.628961
+Repeated test: Latency (ns): 160.459162
+Repeated test: Bandwidth (GB/s): 0.398856
+core: 45
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.592606
+Repeated test: Latency (ns): 158.240222
+Repeated test: Bandwidth (GB/s): 0.404449
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.629895
+Repeated test: Latency (ns): 160.516157
+Repeated test: Bandwidth (GB/s): 0.398714
+core: 46
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.641692
+Repeated test: Latency (ns): 161.236198
+Repeated test: Bandwidth (GB/s): 0.396933
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.666117
+Repeated test: Latency (ns): 162.726977
+Repeated test: Bandwidth (GB/s): 0.393297
+core: 47
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.640829
+Repeated test: Latency (ns): 161.183487
+Repeated test: Bandwidth (GB/s): 0.397063
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.665526
+Repeated test: Latency (ns): 162.690866
+Repeated test: Bandwidth (GB/s): 0.393384
+core: 48
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.623084
+Repeated test: Latency (ns): 160.100427
+Repeated test: Bandwidth (GB/s): 0.399749
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.657257
+Repeated test: Latency (ns): 162.186168
+Repeated test: Bandwidth (GB/s): 0.394608
+core: 49
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.623267
+Repeated test: Latency (ns): 160.111606
+Repeated test: Bandwidth (GB/s): 0.399721
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.657339
+Repeated test: Latency (ns): 162.191221
+Repeated test: Bandwidth (GB/s): 0.394596
+core: 50
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.622020
+Repeated test: Latency (ns): 160.035488
+Repeated test: Bandwidth (GB/s): 0.399912
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.651713
+Repeated test: Latency (ns): 161.847830
+Repeated test: Bandwidth (GB/s): 0.395433
+core: 51
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.616528
+Repeated test: Latency (ns): 159.700316
+Repeated test: Bandwidth (GB/s): 0.400751
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.647272
+Repeated test: Latency (ns): 161.576767
+Repeated test: Bandwidth (GB/s): 0.396097
+core: 52
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.687003
+Repeated test: Latency (ns): 164.001766
+Repeated test: Bandwidth (GB/s): 0.390240
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.724590
+Repeated test: Latency (ns): 166.295897
+Repeated test: Bandwidth (GB/s): 0.384856
+core: 53
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.688480
+Repeated test: Latency (ns): 164.091880
+Repeated test: Bandwidth (GB/s): 0.390026
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.724455
+Repeated test: Latency (ns): 166.287645
+Repeated test: Bandwidth (GB/s): 0.384875
+core: 54
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.672398
+Repeated test: Latency (ns): 163.110336
+Repeated test: Bandwidth (GB/s): 0.392373
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.708651
+Repeated test: Latency (ns): 165.323041
+Repeated test: Bandwidth (GB/s): 0.387121
+core: 55
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.671912
+Repeated test: Latency (ns): 163.080671
+Repeated test: Bandwidth (GB/s): 0.392444
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.708786
+Repeated test: Latency (ns): 165.331297
+Repeated test: Bandwidth (GB/s): 0.387102
+core: 56
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.669599
+Repeated test: Latency (ns): 162.939516
+Repeated test: Bandwidth (GB/s): 0.392784
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.701636
+Repeated test: Latency (ns): 164.894853
+Repeated test: Bandwidth (GB/s): 0.388126
+core: 57
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.670298
+Repeated test: Latency (ns): 162.982185
+Repeated test: Bandwidth (GB/s): 0.392681
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.701050
+Repeated test: Latency (ns): 164.859112
+Repeated test: Bandwidth (GB/s): 0.388211
+core: 58
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.736312
+Repeated test: Latency (ns): 167.011361
+Repeated test: Bandwidth (GB/s): 0.383208
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.757462
+Repeated test: Latency (ns): 168.302204
+Repeated test: Bandwidth (GB/s): 0.380269
+core: 59
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.735457
+Repeated test: Latency (ns): 166.959153
+Repeated test: Bandwidth (GB/s): 0.383328
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.757264
+Repeated test: Latency (ns): 168.290130
+Repeated test: Bandwidth (GB/s): 0.380296
+core: 60
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.718811
+Repeated test: Latency (ns): 165.943177
+Repeated test: Bandwidth (GB/s): 0.385674
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.749113
+Repeated test: Latency (ns): 167.792669
+Repeated test: Bandwidth (GB/s): 0.381423
+core: 61
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.718047
+Repeated test: Latency (ns): 165.896536
+Repeated test: Bandwidth (GB/s): 0.385783
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.748851
+Repeated test: Latency (ns): 167.776675
+Repeated test: Bandwidth (GB/s): 0.381460
+core: 62
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.776754
+Repeated test: Latency (ns): 169.479722
+Repeated test: Bandwidth (GB/s): 0.377627
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.809311
+Repeated test: Latency (ns): 171.466861
+Repeated test: Bandwidth (GB/s): 0.373250
+core: 63
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.776004
+Repeated test: Latency (ns): 169.433951
+Repeated test: Bandwidth (GB/s): 0.377729
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.808895
+Repeated test: Latency (ns): 171.441474
+Repeated test: Bandwidth (GB/s): 0.373305
+core: 64
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.760904
+Repeated test: Latency (ns): 168.512303
+Repeated test: Bandwidth (GB/s): 0.379794
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.799466
+Repeated test: Latency (ns): 170.865965
+Repeated test: Bandwidth (GB/s): 0.374563
+core: 65
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.760765
+Repeated test: Latency (ns): 168.503823
+Repeated test: Bandwidth (GB/s): 0.379814
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.800240
+Repeated test: Latency (ns): 170.913163
+Repeated test: Bandwidth (GB/s): 0.374459
+core: 66
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.759013
+Repeated test: Latency (ns): 168.396910
+Repeated test: Bandwidth (GB/s): 0.380055
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.789775
+Repeated test: Latency (ns): 170.274440
+Repeated test: Bandwidth (GB/s): 0.375864
+core: 67
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.758150
+Repeated test: Latency (ns): 168.344234
+Repeated test: Bandwidth (GB/s): 0.380174
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.789631
+Repeated test: Latency (ns): 170.265690
+Repeated test: Bandwidth (GB/s): 0.375883
+mem numa: 7
+core: 0
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.887025
+Repeated test: Latency (ns): 176.210140
+Repeated test: Bandwidth (GB/s): 0.363203
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.859436
+Repeated test: Latency (ns): 174.526239
+Repeated test: Bandwidth (GB/s): 0.366707
+core: 1
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.884962
+Repeated test: Latency (ns): 176.084194
+Repeated test: Bandwidth (GB/s): 0.363463
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.855751
+Repeated test: Latency (ns): 174.301318
+Repeated test: Bandwidth (GB/s): 0.367180
+core: 2
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.863961
+Repeated test: Latency (ns): 174.802429
+Repeated test: Bandwidth (GB/s): 0.366128
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.833409
+Repeated test: Latency (ns): 172.937689
+Repeated test: Bandwidth (GB/s): 0.370076
+core: 3
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.863571
+Repeated test: Latency (ns): 174.778593
+Repeated test: Bandwidth (GB/s): 0.366178
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.832628
+Repeated test: Latency (ns): 172.890001
+Repeated test: Bandwidth (GB/s): 0.370178
+core: 4
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.830456
+Repeated test: Latency (ns): 172.757416
+Repeated test: Bandwidth (GB/s): 0.370462
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.806877
+Repeated test: Latency (ns): 171.318257
+Repeated test: Bandwidth (GB/s): 0.373574
+core: 5
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.830038
+Repeated test: Latency (ns): 172.731903
+Repeated test: Bandwidth (GB/s): 0.370517
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.806615
+Repeated test: Latency (ns): 171.302303
+Repeated test: Bandwidth (GB/s): 0.373609
+core: 6
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.814776
+Repeated test: Latency (ns): 171.800377
+Repeated test: Bandwidth (GB/s): 0.372526
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.789832
+Repeated test: Latency (ns): 170.277950
+Repeated test: Bandwidth (GB/s): 0.375856
+core: 7
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.815495
+Repeated test: Latency (ns): 171.844310
+Repeated test: Bandwidth (GB/s): 0.372430
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.789055
+Repeated test: Latency (ns): 170.230536
+Repeated test: Bandwidth (GB/s): 0.375961
+core: 8
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.791636
+Repeated test: Latency (ns): 170.388016
+Repeated test: Bandwidth (GB/s): 0.375613
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.765248
+Repeated test: Latency (ns): 168.777431
+Repeated test: Bandwidth (GB/s): 0.379198
+core: 9
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.791482
+Repeated test: Latency (ns): 170.378663
+Repeated test: Bandwidth (GB/s): 0.375634
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.764928
+Repeated test: Latency (ns): 168.757918
+Repeated test: Bandwidth (GB/s): 0.379242
+core: 10
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.771982
+Repeated test: Latency (ns): 169.188470
+Repeated test: Bandwidth (GB/s): 0.378277
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.747885
+Repeated test: Latency (ns): 167.717704
+Repeated test: Bandwidth (GB/s): 0.381594
+core: 11
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.772232
+Repeated test: Latency (ns): 169.203740
+Repeated test: Bandwidth (GB/s): 0.378242
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.748486
+Repeated test: Latency (ns): 167.754370
+Repeated test: Bandwidth (GB/s): 0.381510
+core: 12
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.779135
+Repeated test: Latency (ns): 169.625018
+Repeated test: Bandwidth (GB/s): 0.377303
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.752156
+Repeated test: Latency (ns): 167.978346
+Repeated test: Bandwidth (GB/s): 0.381002
+core: 13
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.779689
+Repeated test: Latency (ns): 169.658880
+Repeated test: Bandwidth (GB/s): 0.377228
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.751058
+Repeated test: Latency (ns): 167.911346
+Repeated test: Bandwidth (GB/s): 0.381154
+core: 15
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.756373
+Repeated test: Latency (ns): 168.235742
+Repeated test: Bandwidth (GB/s): 0.380419
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.736121
+Repeated test: Latency (ns): 166.999671
+Repeated test: Bandwidth (GB/s): 0.383235
+core: 16
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.736669
+Repeated test: Latency (ns): 167.033122
+Repeated test: Bandwidth (GB/s): 0.383158
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.711134
+Repeated test: Latency (ns): 165.474566
+Repeated test: Bandwidth (GB/s): 0.386767
+core: 17
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.736935
+Repeated test: Latency (ns): 167.049364
+Repeated test: Bandwidth (GB/s): 0.383121
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.711087
+Repeated test: Latency (ns): 165.471734
+Repeated test: Bandwidth (GB/s): 0.386773
+core: 18
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.732246
+Repeated test: Latency (ns): 166.763153
+Repeated test: Bandwidth (GB/s): 0.383778
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.701355
+Repeated test: Latency (ns): 164.877706
+Repeated test: Bandwidth (GB/s): 0.388167
+core: 19
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.732057
+Repeated test: Latency (ns): 166.751616
+Repeated test: Bandwidth (GB/s): 0.383805
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.701080
+Repeated test: Latency (ns): 164.860918
+Repeated test: Bandwidth (GB/s): 0.388206
+core: 20
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.702362
+Repeated test: Latency (ns): 164.939193
+Repeated test: Bandwidth (GB/s): 0.388022
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.672706
+Repeated test: Latency (ns): 163.129109
+Repeated test: Bandwidth (GB/s): 0.392328
+core: 21
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.702613
+Repeated test: Latency (ns): 164.954501
+Repeated test: Bandwidth (GB/s): 0.387986
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.672498
+Repeated test: Latency (ns): 163.116409
+Repeated test: Bandwidth (GB/s): 0.392358
+core: 22
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.687615
+Repeated test: Latency (ns): 164.039087
+Repeated test: Bandwidth (GB/s): 0.390151
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.661147
+Repeated test: Latency (ns): 162.423595
+Repeated test: Bandwidth (GB/s): 0.394032
+core: 23
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.688288
+Repeated test: Latency (ns): 164.080170
+Repeated test: Bandwidth (GB/s): 0.390053
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.661249
+Repeated test: Latency (ns): 162.429831
+Repeated test: Bandwidth (GB/s): 0.394017
+core: 24
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.722052
+Repeated test: Latency (ns): 166.140978
+Repeated test: Bandwidth (GB/s): 0.385215
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.705541
+Repeated test: Latency (ns): 165.133197
+Repeated test: Bandwidth (GB/s): 0.387566
+core: 25
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.721400
+Repeated test: Latency (ns): 166.101173
+Repeated test: Bandwidth (GB/s): 0.385308
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.705620
+Repeated test: Latency (ns): 165.138055
+Repeated test: Bandwidth (GB/s): 0.387555
+core: 26
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.707086
+Repeated test: Latency (ns): 165.227515
+Repeated test: Bandwidth (GB/s): 0.387345
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.680976
+Repeated test: Latency (ns): 163.633890
+Repeated test: Bandwidth (GB/s): 0.391117
+core: 27
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.706821
+Repeated test: Latency (ns): 165.211340
+Repeated test: Bandwidth (GB/s): 0.387383
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.679403
+Repeated test: Latency (ns): 163.537876
+Repeated test: Bandwidth (GB/s): 0.391347
+core: 28
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.680655
+Repeated test: Latency (ns): 163.614304
+Repeated test: Bandwidth (GB/s): 0.391164
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.664227
+Repeated test: Latency (ns): 162.611633
+Repeated test: Bandwidth (GB/s): 0.393576
+core: 29
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.680591
+Repeated test: Latency (ns): 163.610402
+Repeated test: Bandwidth (GB/s): 0.391173
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.664939
+Repeated test: Latency (ns): 162.655094
+Repeated test: Bandwidth (GB/s): 0.393471
+core: 30
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.666293
+Repeated test: Latency (ns): 162.737705
+Repeated test: Bandwidth (GB/s): 0.393271
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.647084
+Repeated test: Latency (ns): 161.565258
+Repeated test: Bandwidth (GB/s): 0.396125
+core: 31
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.666751
+Repeated test: Latency (ns): 162.765688
+Repeated test: Bandwidth (GB/s): 0.393204
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.647217
+Repeated test: Latency (ns): 161.573372
+Repeated test: Bandwidth (GB/s): 0.396105
+core: 32
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.756964
+Repeated test: Latency (ns): 168.271807
+Repeated test: Bandwidth (GB/s): 0.380337
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.690579
+Repeated test: Latency (ns): 164.219995
+Repeated test: Bandwidth (GB/s): 0.389721
+core: 33
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.756352
+Repeated test: Latency (ns): 168.234497
+Repeated test: Bandwidth (GB/s): 0.380422
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.689822
+Repeated test: Latency (ns): 164.173814
+Repeated test: Bandwidth (GB/s): 0.389831
+core: 34
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.734485
+Repeated test: Latency (ns): 166.899840
+Repeated test: Bandwidth (GB/s): 0.383464
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.668663
+Repeated test: Latency (ns): 162.882336
+Repeated test: Bandwidth (GB/s): 0.392922
+core: 35
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.734803
+Repeated test: Latency (ns): 166.919247
+Repeated test: Bandwidth (GB/s): 0.383419
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.667879
+Repeated test: Latency (ns): 162.834530
+Repeated test: Bandwidth (GB/s): 0.393037
+core: 36
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.795099
+Repeated test: Latency (ns): 170.599392
+Repeated test: Bandwidth (GB/s): 0.375148
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.760584
+Repeated test: Latency (ns): 168.492776
+Repeated test: Bandwidth (GB/s): 0.379838
+core: 37
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.794848
+Repeated test: Latency (ns): 170.584090
+Repeated test: Bandwidth (GB/s): 0.375182
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.760238
+Repeated test: Latency (ns): 168.471649
+Repeated test: Bandwidth (GB/s): 0.379886
+core: 38
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.784751
+Repeated test: Latency (ns): 169.967814
+Repeated test: Bandwidth (GB/s): 0.376542
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.757505
+Repeated test: Latency (ns): 168.304854
+Repeated test: Bandwidth (GB/s): 0.380263
+core: 39
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.783908
+Repeated test: Latency (ns): 169.916357
+Repeated test: Bandwidth (GB/s): 0.376656
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.757285
+Repeated test: Latency (ns): 168.291426
+Repeated test: Bandwidth (GB/s): 0.380293
+core: 40
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.753696
+Repeated test: Latency (ns): 168.072395
+Repeated test: Bandwidth (GB/s): 0.380789
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.734908
+Repeated test: Latency (ns): 166.925625
+Repeated test: Bandwidth (GB/s): 0.383405
+core: 41
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.753759
+Repeated test: Latency (ns): 168.076233
+Repeated test: Bandwidth (GB/s): 0.380780
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.736333
+Repeated test: Latency (ns): 167.012601
+Repeated test: Bandwidth (GB/s): 0.383205
+core: 42
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.744373
+Repeated test: Latency (ns): 167.503340
+Repeated test: Bandwidth (GB/s): 0.382082
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.717523
+Repeated test: Latency (ns): 165.864529
+Repeated test: Bandwidth (GB/s): 0.385857
+core: 43
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.743956
+Repeated test: Latency (ns): 167.477869
+Repeated test: Bandwidth (GB/s): 0.382140
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.717270
+Repeated test: Latency (ns): 165.849130
+Repeated test: Bandwidth (GB/s): 0.385893
+core: 44
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.737739
+Repeated test: Latency (ns): 167.098453
+Repeated test: Bandwidth (GB/s): 0.383008
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.710634
+Repeated test: Latency (ns): 165.444070
+Repeated test: Bandwidth (GB/s): 0.386838
+core: 45
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.737854
+Repeated test: Latency (ns): 167.105430
+Repeated test: Bandwidth (GB/s): 0.382992
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.710735
+Repeated test: Latency (ns): 165.450224
+Repeated test: Bandwidth (GB/s): 0.386824
+core: 46
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.719523
+Repeated test: Latency (ns): 165.986594
+Repeated test: Bandwidth (GB/s): 0.385574
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.687264
+Repeated test: Latency (ns): 164.017675
+Repeated test: Bandwidth (GB/s): 0.390202
+core: 47
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.719618
+Repeated test: Latency (ns): 165.992389
+Repeated test: Bandwidth (GB/s): 0.385560
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.686983
+Repeated test: Latency (ns): 164.000500
+Repeated test: Bandwidth (GB/s): 0.390243
+core: 48
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.705391
+Repeated test: Latency (ns): 165.124069
+Repeated test: Bandwidth (GB/s): 0.387588
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.671614
+Repeated test: Latency (ns): 163.062500
+Repeated test: Bandwidth (GB/s): 0.392488
+core: 49
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.709182
+Repeated test: Latency (ns): 165.355472
+Repeated test: Bandwidth (GB/s): 0.387045
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.671501
+Repeated test: Latency (ns): 163.055561
+Repeated test: Bandwidth (GB/s): 0.392504
+core: 50
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.703687
+Repeated test: Latency (ns): 165.020078
+Repeated test: Bandwidth (GB/s): 0.387832
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.673900
+Repeated test: Latency (ns): 163.202034
+Repeated test: Bandwidth (GB/s): 0.392152
+core: 51
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.697875
+Repeated test: Latency (ns): 164.665330
+Repeated test: Bandwidth (GB/s): 0.388667
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.669359
+Repeated test: Latency (ns): 162.924842
+Repeated test: Bandwidth (GB/s): 0.392819
+core: 52
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.662664
+Repeated test: Latency (ns): 162.516238
+Repeated test: Bandwidth (GB/s): 0.393807
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.641211
+Repeated test: Latency (ns): 161.206805
+Repeated test: Bandwidth (GB/s): 0.397006
+core: 53
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.663495
+Repeated test: Latency (ns): 162.566939
+Repeated test: Bandwidth (GB/s): 0.393684
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.641182
+Repeated test: Latency (ns): 161.205053
+Repeated test: Bandwidth (GB/s): 0.397010
+core: 54
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.655502
+Repeated test: Latency (ns): 162.079078
+Repeated test: Bandwidth (GB/s): 0.394869
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.623245
+Repeated test: Latency (ns): 160.110271
+Repeated test: Bandwidth (GB/s): 0.399725
+core: 55
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.655018
+Repeated test: Latency (ns): 162.049567
+Repeated test: Bandwidth (GB/s): 0.394941
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.623794
+Repeated test: Latency (ns): 160.143780
+Repeated test: Bandwidth (GB/s): 0.399641
+core: 56
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.643164
+Repeated test: Latency (ns): 161.326023
+Repeated test: Bandwidth (GB/s): 0.396712
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.617000
+Repeated test: Latency (ns): 159.729073
+Repeated test: Bandwidth (GB/s): 0.400679
+core: 57
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.643783
+Repeated test: Latency (ns): 161.363809
+Repeated test: Bandwidth (GB/s): 0.396620
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.617170
+Repeated test: Latency (ns): 159.739461
+Repeated test: Bandwidth (GB/s): 0.400653
+core: 58
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.650520
+Repeated test: Latency (ns): 161.775009
+Repeated test: Bandwidth (GB/s): 0.395611
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.613375
+Repeated test: Latency (ns): 159.507830
+Repeated test: Bandwidth (GB/s): 0.401234
+core: 59
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.649576
+Repeated test: Latency (ns): 161.717378
+Repeated test: Bandwidth (GB/s): 0.395752
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.613365
+Repeated test: Latency (ns): 159.507216
+Repeated test: Bandwidth (GB/s): 0.401236
+core: 60
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.634971
+Repeated test: Latency (ns): 160.825957
+Repeated test: Bandwidth (GB/s): 0.397946
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.598838
+Repeated test: Latency (ns): 158.620586
+Repeated test: Bandwidth (GB/s): 0.403479
+core: 61
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.634342
+Repeated test: Latency (ns): 160.787577
+Repeated test: Bandwidth (GB/s): 0.398041
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.599271
+Repeated test: Latency (ns): 158.647007
+Repeated test: Bandwidth (GB/s): 0.403412
+core: 62
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.676285
+Repeated test: Latency (ns): 163.347560
+Repeated test: Bandwidth (GB/s): 0.391803
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.606426
+Repeated test: Latency (ns): 159.083721
+Repeated test: Bandwidth (GB/s): 0.402304
+core: 63
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.675739
+Repeated test: Latency (ns): 163.314223
+Repeated test: Bandwidth (GB/s): 0.391883
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.606341
+Repeated test: Latency (ns): 159.078533
+Repeated test: Bandwidth (GB/s): 0.402317
+core: 64
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.662871
+Repeated test: Latency (ns): 162.528831
+Repeated test: Bandwidth (GB/s): 0.393777
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.587999
+Repeated test: Latency (ns): 157.959001
+Repeated test: Bandwidth (GB/s): 0.405169
+core: 65
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.662802
+Repeated test: Latency (ns): 162.524631
+Repeated test: Bandwidth (GB/s): 0.393787
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.587364
+Repeated test: Latency (ns): 157.920239
+Repeated test: Bandwidth (GB/s): 0.405268
+core: 66
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.655155
+Repeated test: Latency (ns): 162.057880
+Repeated test: Bandwidth (GB/s): 0.394921
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.580362
+Repeated test: Latency (ns): 157.492902
+Repeated test: Bandwidth (GB/s): 0.406368
+core: 67
+Total buffer size: 209715200Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.654877
+Repeated test: Latency (ns): 162.040953
+Repeated test: Bandwidth (GB/s): 0.394962
+Interleaving num: 1
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.580338
+Repeated test: Latency (ns): 157.491441
+Repeated test: Bandwidth (GB/s): 0.406372
+MCDRAM END
+DRAM START
+mem numa: 0
+core: 0
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.254108
+Repeated test: Latency (ns): 137.579904
+Repeated test: Bandwidth (GB/s): 0.465185
+core: 1
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250410
+Repeated test: Latency (ns): 137.354228
+Repeated test: Bandwidth (GB/s): 0.465949
+core: 2
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250187
+Repeated test: Latency (ns): 137.340615
+Repeated test: Bandwidth (GB/s): 0.465995
+core: 3
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250015
+Repeated test: Latency (ns): 137.330088
+Repeated test: Bandwidth (GB/s): 0.466031
+core: 4
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250592
+Repeated test: Latency (ns): 137.365341
+Repeated test: Bandwidth (GB/s): 0.465911
+core: 5
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250499
+Repeated test: Latency (ns): 137.359664
+Repeated test: Bandwidth (GB/s): 0.465930
+core: 6
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250583
+Repeated test: Latency (ns): 137.364783
+Repeated test: Bandwidth (GB/s): 0.465913
+core: 7
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250174
+Repeated test: Latency (ns): 137.339776
+Repeated test: Bandwidth (GB/s): 0.465998
+core: 8
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250791
+Repeated test: Latency (ns): 137.377436
+Repeated test: Bandwidth (GB/s): 0.465870
+core: 9
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250194
+Repeated test: Latency (ns): 137.341000
+Repeated test: Bandwidth (GB/s): 0.465994
+core: 10
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249811
+Repeated test: Latency (ns): 137.317623
+Repeated test: Bandwidth (GB/s): 0.466073
+core: 11
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249945
+Repeated test: Latency (ns): 137.325856
+Repeated test: Bandwidth (GB/s): 0.466045
+core: 12
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251040
+Repeated test: Latency (ns): 137.392662
+Repeated test: Bandwidth (GB/s): 0.465818
+core: 13
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251036
+Repeated test: Latency (ns): 137.392418
+Repeated test: Bandwidth (GB/s): 0.465819
+core: 15
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250031
+Repeated test: Latency (ns): 137.331069
+Repeated test: Bandwidth (GB/s): 0.466027
+core: 16
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251065
+Repeated test: Latency (ns): 137.394200
+Repeated test: Bandwidth (GB/s): 0.465813
+core: 17
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251142
+Repeated test: Latency (ns): 137.398912
+Repeated test: Bandwidth (GB/s): 0.465797
+core: 18
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252523
+Repeated test: Latency (ns): 137.483198
+Repeated test: Bandwidth (GB/s): 0.465512
+core: 19
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252426
+Repeated test: Latency (ns): 137.477260
+Repeated test: Bandwidth (GB/s): 0.465532
+core: 20
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252434
+Repeated test: Latency (ns): 137.477716
+Repeated test: Bandwidth (GB/s): 0.465530
+core: 21
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252093
+Repeated test: Latency (ns): 137.456919
+Repeated test: Bandwidth (GB/s): 0.465601
+core: 22
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251596
+Repeated test: Latency (ns): 137.426595
+Repeated test: Bandwidth (GB/s): 0.465703
+core: 23
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251729
+Repeated test: Latency (ns): 137.434744
+Repeated test: Bandwidth (GB/s): 0.465676
+core: 24
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.415397
+Repeated test: Latency (ns): 147.424194
+Repeated test: Bandwidth (GB/s): 0.434122
+core: 25
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.416253
+Repeated test: Latency (ns): 147.476463
+Repeated test: Bandwidth (GB/s): 0.433968
+core: 26
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.414156
+Repeated test: Latency (ns): 147.348449
+Repeated test: Bandwidth (GB/s): 0.434345
+core: 27
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.414293
+Repeated test: Latency (ns): 147.356816
+Repeated test: Bandwidth (GB/s): 0.434320
+core: 28
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.364094
+Repeated test: Latency (ns): 144.292962
+Repeated test: Bandwidth (GB/s): 0.443542
+core: 29
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.362990
+Repeated test: Latency (ns): 144.225550
+Repeated test: Bandwidth (GB/s): 0.443750
+core: 30
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.372374
+Repeated test: Latency (ns): 144.798330
+Repeated test: Bandwidth (GB/s): 0.441994
+core: 31
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.372306
+Repeated test: Latency (ns): 144.794128
+Repeated test: Bandwidth (GB/s): 0.442007
+core: 32
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.517360
+Repeated test: Latency (ns): 153.647548
+Repeated test: Bandwidth (GB/s): 0.416538
+core: 33
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.516728
+Repeated test: Latency (ns): 153.608998
+Repeated test: Bandwidth (GB/s): 0.416643
+core: 34
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.501113
+Repeated test: Latency (ns): 152.655896
+Repeated test: Bandwidth (GB/s): 0.419244
+core: 35
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.502657
+Repeated test: Latency (ns): 152.750157
+Repeated test: Bandwidth (GB/s): 0.418985
+core: 36
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251232
+Repeated test: Latency (ns): 137.404395
+Repeated test: Bandwidth (GB/s): 0.465779
+core: 37
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250402
+Repeated test: Latency (ns): 137.353732
+Repeated test: Bandwidth (GB/s): 0.465950
+core: 38
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251195
+Repeated test: Latency (ns): 137.402112
+Repeated test: Bandwidth (GB/s): 0.465786
+core: 39
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251280
+Repeated test: Latency (ns): 137.407290
+Repeated test: Bandwidth (GB/s): 0.465769
+core: 40
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250441
+Repeated test: Latency (ns): 137.356114
+Repeated test: Bandwidth (GB/s): 0.465942
+core: 41
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250384
+Repeated test: Latency (ns): 137.352646
+Repeated test: Bandwidth (GB/s): 0.465954
+core: 42
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250776
+Repeated test: Latency (ns): 137.376559
+Repeated test: Bandwidth (GB/s): 0.465873
+core: 43
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250839
+Repeated test: Latency (ns): 137.380420
+Repeated test: Bandwidth (GB/s): 0.465860
+core: 44
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251709
+Repeated test: Latency (ns): 137.433504
+Repeated test: Bandwidth (GB/s): 0.465680
+core: 45
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251585
+Repeated test: Latency (ns): 137.425896
+Repeated test: Bandwidth (GB/s): 0.465706
+core: 46
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251901
+Repeated test: Latency (ns): 137.445199
+Repeated test: Bandwidth (GB/s): 0.465640
+core: 47
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250788
+Repeated test: Latency (ns): 137.377266
+Repeated test: Bandwidth (GB/s): 0.465871
+core: 48
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252540
+Repeated test: Latency (ns): 137.484240
+Repeated test: Bandwidth (GB/s): 0.465508
+core: 49
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252045
+Repeated test: Latency (ns): 137.454001
+Repeated test: Bandwidth (GB/s): 0.465611
+core: 50
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.259217
+Repeated test: Latency (ns): 137.891750
+Repeated test: Bandwidth (GB/s): 0.464132
+core: 51
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252926
+Repeated test: Latency (ns): 137.507801
+Repeated test: Bandwidth (GB/s): 0.465428
+core: 52
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.288242
+Repeated test: Latency (ns): 139.663290
+Repeated test: Bandwidth (GB/s): 0.458245
+core: 53
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.285685
+Repeated test: Latency (ns): 139.507256
+Repeated test: Bandwidth (GB/s): 0.458758
+core: 54
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.342904
+Repeated test: Latency (ns): 142.999614
+Repeated test: Bandwidth (GB/s): 0.447554
+core: 55
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.342617
+Repeated test: Latency (ns): 142.982069
+Repeated test: Bandwidth (GB/s): 0.447609
+core: 56
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.417520
+Repeated test: Latency (ns): 147.553804
+Repeated test: Bandwidth (GB/s): 0.433740
+core: 57
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.417816
+Repeated test: Latency (ns): 147.571856
+Repeated test: Bandwidth (GB/s): 0.433687
+core: 58
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.412568
+Repeated test: Latency (ns): 147.251582
+Repeated test: Bandwidth (GB/s): 0.434631
+core: 59
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.412111
+Repeated test: Latency (ns): 147.223667
+Repeated test: Bandwidth (GB/s): 0.434713
+core: 60
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.479412
+Repeated test: Latency (ns): 151.331421
+Repeated test: Bandwidth (GB/s): 0.422913
+core: 61
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.479043
+Repeated test: Latency (ns): 151.308854
+Repeated test: Bandwidth (GB/s): 0.422976
+core: 62
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.510326
+Repeated test: Latency (ns): 153.218242
+Repeated test: Bandwidth (GB/s): 0.417705
+core: 63
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.509841
+Repeated test: Latency (ns): 153.188614
+Repeated test: Bandwidth (GB/s): 0.417786
+core: 64
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.516207
+Repeated test: Latency (ns): 153.577181
+Repeated test: Bandwidth (GB/s): 0.416729
+core: 65
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.516281
+Repeated test: Latency (ns): 153.581724
+Repeated test: Bandwidth (GB/s): 0.416717
+core: 66
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.517304
+Repeated test: Latency (ns): 153.644121
+Repeated test: Bandwidth (GB/s): 0.416547
+core: 67
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.517081
+Repeated test: Latency (ns): 153.630520
+Repeated test: Bandwidth (GB/s): 0.416584
+mem numa: 1
+core: 0
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.451907
+Repeated test: Latency (ns): 149.652617
+Repeated test: Bandwidth (GB/s): 0.427657
+core: 1
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.448381
+Repeated test: Latency (ns): 149.437410
+Repeated test: Bandwidth (GB/s): 0.428273
+core: 2
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.429349
+Repeated test: Latency (ns): 148.275787
+Repeated test: Bandwidth (GB/s): 0.431628
+core: 3
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.429726
+Repeated test: Latency (ns): 148.298816
+Repeated test: Bandwidth (GB/s): 0.431561
+core: 4
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.372943
+Repeated test: Latency (ns): 144.833019
+Repeated test: Bandwidth (GB/s): 0.441888
+core: 5
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.372798
+Repeated test: Latency (ns): 144.824161
+Repeated test: Bandwidth (GB/s): 0.441915
+core: 6
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.353991
+Repeated test: Latency (ns): 143.676318
+Repeated test: Bandwidth (GB/s): 0.445446
+core: 7
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.353909
+Repeated test: Latency (ns): 143.671303
+Repeated test: Bandwidth (GB/s): 0.445462
+core: 8
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.313171
+Repeated test: Latency (ns): 141.184833
+Repeated test: Bandwidth (GB/s): 0.453307
+core: 9
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.311192
+Repeated test: Latency (ns): 141.064051
+Repeated test: Bandwidth (GB/s): 0.453695
+core: 10
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.322833
+Repeated test: Latency (ns): 141.774549
+Repeated test: Bandwidth (GB/s): 0.451421
+core: 11
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.322624
+Repeated test: Latency (ns): 141.761803
+Repeated test: Bandwidth (GB/s): 0.451462
+core: 12
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251249
+Repeated test: Latency (ns): 137.405395
+Repeated test: Bandwidth (GB/s): 0.465775
+core: 13
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251108
+Repeated test: Latency (ns): 137.396831
+Repeated test: Bandwidth (GB/s): 0.465804
+core: 15
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250515
+Repeated test: Latency (ns): 137.360632
+Repeated test: Bandwidth (GB/s): 0.465927
+core: 16
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250821
+Repeated test: Latency (ns): 137.379301
+Repeated test: Bandwidth (GB/s): 0.465864
+core: 17
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251901
+Repeated test: Latency (ns): 137.445193
+Repeated test: Bandwidth (GB/s): 0.465640
+core: 18
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251174
+Repeated test: Latency (ns): 137.400853
+Repeated test: Bandwidth (GB/s): 0.465791
+core: 19
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250750
+Repeated test: Latency (ns): 137.374966
+Repeated test: Bandwidth (GB/s): 0.465878
+core: 20
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251050
+Repeated test: Latency (ns): 137.393280
+Repeated test: Bandwidth (GB/s): 0.465816
+core: 21
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250689
+Repeated test: Latency (ns): 137.371210
+Repeated test: Bandwidth (GB/s): 0.465891
+core: 22
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250344
+Repeated test: Latency (ns): 137.350186
+Repeated test: Bandwidth (GB/s): 0.465963
+core: 23
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250584
+Repeated test: Latency (ns): 137.364832
+Repeated test: Bandwidth (GB/s): 0.465913
+core: 24
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250646
+Repeated test: Latency (ns): 137.368618
+Repeated test: Bandwidth (GB/s): 0.465900
+core: 25
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250388
+Repeated test: Latency (ns): 137.352879
+Repeated test: Bandwidth (GB/s): 0.465953
+core: 26
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251729
+Repeated test: Latency (ns): 137.434717
+Repeated test: Bandwidth (GB/s): 0.465676
+core: 27
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250746
+Repeated test: Latency (ns): 137.374697
+Repeated test: Bandwidth (GB/s): 0.465879
+core: 28
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250645
+Repeated test: Latency (ns): 137.368574
+Repeated test: Bandwidth (GB/s): 0.465900
+core: 29
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250398
+Repeated test: Latency (ns): 137.353455
+Repeated test: Bandwidth (GB/s): 0.465951
+core: 30
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250629
+Repeated test: Latency (ns): 137.367606
+Repeated test: Bandwidth (GB/s): 0.465903
+core: 31
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250563
+Repeated test: Latency (ns): 137.363549
+Repeated test: Bandwidth (GB/s): 0.465917
+core: 32
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251634
+Repeated test: Latency (ns): 137.428945
+Repeated test: Bandwidth (GB/s): 0.465695
+core: 33
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250919
+Repeated test: Latency (ns): 137.385261
+Repeated test: Bandwidth (GB/s): 0.465844
+core: 34
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250939
+Repeated test: Latency (ns): 137.386491
+Repeated test: Bandwidth (GB/s): 0.465839
+core: 35
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250820
+Repeated test: Latency (ns): 137.379205
+Repeated test: Bandwidth (GB/s): 0.465864
+core: 36
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.450317
+Repeated test: Latency (ns): 149.555554
+Repeated test: Bandwidth (GB/s): 0.427935
+core: 37
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.447338
+Repeated test: Latency (ns): 149.373762
+Repeated test: Bandwidth (GB/s): 0.428456
+core: 38
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.530917
+Repeated test: Latency (ns): 154.474989
+Repeated test: Bandwidth (GB/s): 0.414307
+core: 39
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.530533
+Repeated test: Latency (ns): 154.451579
+Repeated test: Bandwidth (GB/s): 0.414370
+core: 40
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.339110
+Repeated test: Latency (ns): 142.768003
+Repeated test: Bandwidth (GB/s): 0.448280
+core: 41
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.338758
+Repeated test: Latency (ns): 142.746570
+Repeated test: Bandwidth (GB/s): 0.448347
+core: 42
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.429597
+Repeated test: Latency (ns): 148.290898
+Repeated test: Bandwidth (GB/s): 0.431584
+core: 43
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.428808
+Repeated test: Latency (ns): 148.242767
+Repeated test: Bandwidth (GB/s): 0.431725
+core: 44
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.429952
+Repeated test: Latency (ns): 148.312612
+Repeated test: Bandwidth (GB/s): 0.431521
+core: 45
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.429935
+Repeated test: Latency (ns): 148.311555
+Repeated test: Bandwidth (GB/s): 0.431524
+core: 46
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252712
+Repeated test: Latency (ns): 137.494685
+Repeated test: Bandwidth (GB/s): 0.465473
+core: 47
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252151
+Repeated test: Latency (ns): 137.460485
+Repeated test: Bandwidth (GB/s): 0.465589
+core: 48
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.292343
+Repeated test: Latency (ns): 139.913577
+Repeated test: Bandwidth (GB/s): 0.457426
+core: 49
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.292764
+Repeated test: Latency (ns): 139.939308
+Repeated test: Bandwidth (GB/s): 0.457341
+core: 50
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.376848
+Repeated test: Latency (ns): 145.071394
+Repeated test: Bandwidth (GB/s): 0.441162
+core: 51
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.370010
+Repeated test: Latency (ns): 144.654003
+Repeated test: Bandwidth (GB/s): 0.442435
+core: 52
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250947
+Repeated test: Latency (ns): 137.386977
+Repeated test: Bandwidth (GB/s): 0.465838
+core: 53
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250711
+Repeated test: Latency (ns): 137.372598
+Repeated test: Bandwidth (GB/s): 0.465887
+core: 54
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252037
+Repeated test: Latency (ns): 137.453498
+Repeated test: Bandwidth (GB/s): 0.465612
+core: 55
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251589
+Repeated test: Latency (ns): 137.426154
+Repeated test: Bandwidth (GB/s): 0.465705
+core: 56
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252312
+Repeated test: Latency (ns): 137.470312
+Repeated test: Bandwidth (GB/s): 0.465555
+core: 57
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252177
+Repeated test: Latency (ns): 137.462055
+Repeated test: Bandwidth (GB/s): 0.465583
+core: 58
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251489
+Repeated test: Latency (ns): 137.420089
+Repeated test: Bandwidth (GB/s): 0.465725
+core: 59
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250761
+Repeated test: Latency (ns): 137.375611
+Repeated test: Bandwidth (GB/s): 0.465876
+core: 60
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251076
+Repeated test: Latency (ns): 137.394875
+Repeated test: Bandwidth (GB/s): 0.465811
+core: 61
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251268
+Repeated test: Latency (ns): 137.406584
+Repeated test: Bandwidth (GB/s): 0.465771
+core: 62
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250967
+Repeated test: Latency (ns): 137.388211
+Repeated test: Bandwidth (GB/s): 0.465834
+core: 63
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250989
+Repeated test: Latency (ns): 137.389569
+Repeated test: Bandwidth (GB/s): 0.465829
+core: 64
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251204
+Repeated test: Latency (ns): 137.402655
+Repeated test: Bandwidth (GB/s): 0.465785
+core: 65
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251170
+Repeated test: Latency (ns): 137.400622
+Repeated test: Bandwidth (GB/s): 0.465791
+core: 66
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251465
+Repeated test: Latency (ns): 137.418601
+Repeated test: Bandwidth (GB/s): 0.465731
+core: 67
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251096
+Repeated test: Latency (ns): 137.396103
+Repeated test: Bandwidth (GB/s): 0.465807
+mem numa: 2
+core: 0
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251847
+Repeated test: Latency (ns): 137.441893
+Repeated test: Bandwidth (GB/s): 0.465652
+core: 1
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250007
+Repeated test: Latency (ns): 137.329626
+Repeated test: Bandwidth (GB/s): 0.466032
+core: 2
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249797
+Repeated test: Latency (ns): 137.316806
+Repeated test: Bandwidth (GB/s): 0.466076
+core: 3
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249905
+Repeated test: Latency (ns): 137.323410
+Repeated test: Bandwidth (GB/s): 0.466053
+core: 4
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250104
+Repeated test: Latency (ns): 137.335508
+Repeated test: Bandwidth (GB/s): 0.466012
+core: 5
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250361
+Repeated test: Latency (ns): 137.351232
+Repeated test: Bandwidth (GB/s): 0.465959
+core: 6
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249728
+Repeated test: Latency (ns): 137.312589
+Repeated test: Bandwidth (GB/s): 0.466090
+core: 7
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249785
+Repeated test: Latency (ns): 137.316090
+Repeated test: Bandwidth (GB/s): 0.466078
+core: 8
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249870
+Repeated test: Latency (ns): 137.321275
+Repeated test: Bandwidth (GB/s): 0.466061
+core: 9
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249532
+Repeated test: Latency (ns): 137.300604
+Repeated test: Bandwidth (GB/s): 0.466131
+core: 10
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249399
+Repeated test: Latency (ns): 137.292497
+Repeated test: Bandwidth (GB/s): 0.466158
+core: 11
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249394
+Repeated test: Latency (ns): 137.292180
+Repeated test: Bandwidth (GB/s): 0.466159
+core: 12
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250853
+Repeated test: Latency (ns): 137.381261
+Repeated test: Bandwidth (GB/s): 0.465857
+core: 13
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250305
+Repeated test: Latency (ns): 137.347785
+Repeated test: Bandwidth (GB/s): 0.465971
+core: 15
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249406
+Repeated test: Latency (ns): 137.292938
+Repeated test: Bandwidth (GB/s): 0.466157
+core: 16
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250336
+Repeated test: Latency (ns): 137.349722
+Repeated test: Bandwidth (GB/s): 0.465964
+core: 17
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249746
+Repeated test: Latency (ns): 137.313683
+Repeated test: Bandwidth (GB/s): 0.466086
+core: 18
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.293911
+Repeated test: Latency (ns): 140.009272
+Repeated test: Bandwidth (GB/s): 0.457113
+core: 19
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.294182
+Repeated test: Latency (ns): 140.025851
+Repeated test: Bandwidth (GB/s): 0.457059
+core: 20
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.278551
+Repeated test: Latency (ns): 139.071822
+Repeated test: Bandwidth (GB/s): 0.460194
+core: 21
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.278730
+Repeated test: Latency (ns): 139.082696
+Repeated test: Bandwidth (GB/s): 0.460158
+core: 22
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250215
+Repeated test: Latency (ns): 137.342317
+Repeated test: Bandwidth (GB/s): 0.465989
+core: 23
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249959
+Repeated test: Latency (ns): 137.326653
+Repeated test: Bandwidth (GB/s): 0.466042
+core: 24
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.386552
+Repeated test: Latency (ns): 145.663681
+Repeated test: Bandwidth (GB/s): 0.439369
+core: 25
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.385977
+Repeated test: Latency (ns): 145.628575
+Repeated test: Bandwidth (GB/s): 0.439474
+core: 26
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.383813
+Repeated test: Latency (ns): 145.496513
+Repeated test: Bandwidth (GB/s): 0.439873
+core: 27
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.383000
+Repeated test: Latency (ns): 145.446870
+Repeated test: Bandwidth (GB/s): 0.440023
+core: 28
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.332687
+Repeated test: Latency (ns): 142.376005
+Repeated test: Bandwidth (GB/s): 0.449514
+core: 29
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.333501
+Repeated test: Latency (ns): 142.425655
+Repeated test: Bandwidth (GB/s): 0.449358
+core: 30
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.312700
+Repeated test: Latency (ns): 141.156119
+Repeated test: Bandwidth (GB/s): 0.453399
+core: 31
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.313414
+Repeated test: Latency (ns): 141.199645
+Repeated test: Bandwidth (GB/s): 0.453259
+core: 32
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.476436
+Repeated test: Latency (ns): 151.149722
+Repeated test: Bandwidth (GB/s): 0.423421
+core: 33
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.475524
+Repeated test: Latency (ns): 151.094099
+Repeated test: Bandwidth (GB/s): 0.423577
+core: 34
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.430315
+Repeated test: Latency (ns): 148.334771
+Repeated test: Bandwidth (GB/s): 0.431457
+core: 35
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.430584
+Repeated test: Latency (ns): 148.351169
+Repeated test: Bandwidth (GB/s): 0.431409
+core: 36
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249901
+Repeated test: Latency (ns): 137.323132
+Repeated test: Bandwidth (GB/s): 0.466054
+core: 37
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249777
+Repeated test: Latency (ns): 137.315574
+Repeated test: Bandwidth (GB/s): 0.466080
+core: 38
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249696
+Repeated test: Latency (ns): 137.310635
+Repeated test: Bandwidth (GB/s): 0.466097
+core: 39
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249824
+Repeated test: Latency (ns): 137.318448
+Repeated test: Bandwidth (GB/s): 0.466070
+core: 40
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249716
+Repeated test: Latency (ns): 137.311830
+Repeated test: Bandwidth (GB/s): 0.466093
+core: 41
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249592
+Repeated test: Latency (ns): 137.304292
+Repeated test: Bandwidth (GB/s): 0.466118
+core: 42
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250256
+Repeated test: Latency (ns): 137.344799
+Repeated test: Bandwidth (GB/s): 0.465981
+core: 43
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249777
+Repeated test: Latency (ns): 137.315600
+Repeated test: Bandwidth (GB/s): 0.466080
+core: 44
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249827
+Repeated test: Latency (ns): 137.318653
+Repeated test: Bandwidth (GB/s): 0.466070
+core: 45
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249984
+Repeated test: Latency (ns): 137.328180
+Repeated test: Bandwidth (GB/s): 0.466037
+core: 46
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250526
+Repeated test: Latency (ns): 137.361315
+Repeated test: Bandwidth (GB/s): 0.465925
+core: 47
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249801
+Repeated test: Latency (ns): 137.317042
+Repeated test: Bandwidth (GB/s): 0.466075
+core: 48
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249904
+Repeated test: Latency (ns): 137.323309
+Repeated test: Bandwidth (GB/s): 0.466054
+core: 49
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249926
+Repeated test: Latency (ns): 137.324655
+Repeated test: Bandwidth (GB/s): 0.466049
+core: 50
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.256495
+Repeated test: Latency (ns): 137.725588
+Repeated test: Bandwidth (GB/s): 0.464692
+core: 51
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250322
+Repeated test: Latency (ns): 137.348843
+Repeated test: Bandwidth (GB/s): 0.465967
+core: 52
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250528
+Repeated test: Latency (ns): 137.361386
+Repeated test: Bandwidth (GB/s): 0.465925
+core: 53
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250604
+Repeated test: Latency (ns): 137.366054
+Repeated test: Bandwidth (GB/s): 0.465909
+core: 54
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250333
+Repeated test: Latency (ns): 137.349520
+Repeated test: Bandwidth (GB/s): 0.465965
+core: 55
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250065
+Repeated test: Latency (ns): 137.333178
+Repeated test: Bandwidth (GB/s): 0.466020
+core: 56
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.286827
+Repeated test: Latency (ns): 139.576923
+Repeated test: Bandwidth (GB/s): 0.458529
+core: 57
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.287121
+Repeated test: Latency (ns): 139.594872
+Repeated test: Bandwidth (GB/s): 0.458470
+core: 58
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.291374
+Repeated test: Latency (ns): 139.854485
+Repeated test: Bandwidth (GB/s): 0.457619
+core: 59
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.291133
+Repeated test: Latency (ns): 139.839724
+Repeated test: Bandwidth (GB/s): 0.457667
+core: 60
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.317421
+Repeated test: Latency (ns): 141.444249
+Repeated test: Bandwidth (GB/s): 0.452475
+core: 61
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.317371
+Repeated test: Latency (ns): 141.441218
+Repeated test: Bandwidth (GB/s): 0.452485
+core: 62
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.383241
+Repeated test: Latency (ns): 145.461552
+Repeated test: Bandwidth (GB/s): 0.439979
+core: 63
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.382903
+Repeated test: Latency (ns): 145.440939
+Repeated test: Bandwidth (GB/s): 0.440041
+core: 64
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.382210
+Repeated test: Latency (ns): 145.398645
+Repeated test: Bandwidth (GB/s): 0.440169
+core: 65
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.382302
+Repeated test: Latency (ns): 145.404283
+Repeated test: Bandwidth (GB/s): 0.440152
+core: 66
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.427240
+Repeated test: Latency (ns): 148.147038
+Repeated test: Bandwidth (GB/s): 0.432004
+core: 67
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.427832
+Repeated test: Latency (ns): 148.183179
+Repeated test: Bandwidth (GB/s): 0.431898
+mem numa: 3
+core: 0
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.534371
+Repeated test: Latency (ns): 154.685837
+Repeated test: Bandwidth (GB/s): 0.413742
+core: 1
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.531001
+Repeated test: Latency (ns): 154.480130
+Repeated test: Bandwidth (GB/s): 0.414293
+core: 2
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.530193
+Repeated test: Latency (ns): 154.430799
+Repeated test: Bandwidth (GB/s): 0.414425
+core: 3
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.530020
+Repeated test: Latency (ns): 154.420255
+Repeated test: Bandwidth (GB/s): 0.414454
+core: 4
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.432732
+Repeated test: Latency (ns): 148.482297
+Repeated test: Bandwidth (GB/s): 0.431028
+core: 5
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.432500
+Repeated test: Latency (ns): 148.468081
+Repeated test: Bandwidth (GB/s): 0.431069
+core: 6
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.430066
+Repeated test: Latency (ns): 148.319569
+Repeated test: Bandwidth (GB/s): 0.431501
+core: 7
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.430035
+Repeated test: Latency (ns): 148.317672
+Repeated test: Bandwidth (GB/s): 0.431506
+core: 8
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.384831
+Repeated test: Latency (ns): 145.558601
+Repeated test: Bandwidth (GB/s): 0.439686
+core: 9
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.384346
+Repeated test: Latency (ns): 145.529007
+Repeated test: Bandwidth (GB/s): 0.439775
+core: 10
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.365814
+Repeated test: Latency (ns): 144.397925
+Repeated test: Bandwidth (GB/s): 0.443220
+core: 11
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.366017
+Repeated test: Latency (ns): 144.410318
+Repeated test: Bandwidth (GB/s): 0.443182
+core: 12
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.336899
+Repeated test: Latency (ns): 142.633107
+Repeated test: Bandwidth (GB/s): 0.448704
+core: 13
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.337383
+Repeated test: Latency (ns): 142.662600
+Repeated test: Bandwidth (GB/s): 0.448611
+core: 15
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.305846
+Repeated test: Latency (ns): 140.737767
+Repeated test: Bandwidth (GB/s): 0.454747
+core: 16
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249234
+Repeated test: Latency (ns): 137.282403
+Repeated test: Bandwidth (GB/s): 0.466193
+core: 17
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.249863
+Repeated test: Latency (ns): 137.320852
+Repeated test: Bandwidth (GB/s): 0.466062
+core: 18
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251827
+Repeated test: Latency (ns): 137.440679
+Repeated test: Bandwidth (GB/s): 0.465656
+core: 19
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252380
+Repeated test: Latency (ns): 137.474434
+Repeated test: Bandwidth (GB/s): 0.465541
+core: 20
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251846
+Repeated test: Latency (ns): 137.441858
+Repeated test: Bandwidth (GB/s): 0.465652
+core: 21
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252030
+Repeated test: Latency (ns): 137.453069
+Repeated test: Bandwidth (GB/s): 0.465614
+core: 22
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251271
+Repeated test: Latency (ns): 137.406780
+Repeated test: Bandwidth (GB/s): 0.465771
+core: 23
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251555
+Repeated test: Latency (ns): 137.424077
+Repeated test: Bandwidth (GB/s): 0.465712
+core: 24
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251559
+Repeated test: Latency (ns): 137.424334
+Repeated test: Bandwidth (GB/s): 0.465711
+core: 25
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251317
+Repeated test: Latency (ns): 137.409546
+Repeated test: Bandwidth (GB/s): 0.465761
+core: 26
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251689
+Repeated test: Latency (ns): 137.432244
+Repeated test: Bandwidth (GB/s): 0.465684
+core: 27
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250736
+Repeated test: Latency (ns): 137.374122
+Repeated test: Bandwidth (GB/s): 0.465881
+core: 28
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250963
+Repeated test: Latency (ns): 137.387987
+Repeated test: Bandwidth (GB/s): 0.465834
+core: 29
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251270
+Repeated test: Latency (ns): 137.406696
+Repeated test: Bandwidth (GB/s): 0.465771
+core: 30
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250661
+Repeated test: Latency (ns): 137.369549
+Repeated test: Bandwidth (GB/s): 0.465897
+core: 31
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250577
+Repeated test: Latency (ns): 137.364413
+Repeated test: Bandwidth (GB/s): 0.465914
+core: 32
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.252064
+Repeated test: Latency (ns): 137.455184
+Repeated test: Bandwidth (GB/s): 0.465607
+core: 33
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251249
+Repeated test: Latency (ns): 137.405440
+Repeated test: Bandwidth (GB/s): 0.465775
+core: 34
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251015
+Repeated test: Latency (ns): 137.391141
+Repeated test: Bandwidth (GB/s): 0.465824
+core: 35
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251504
+Repeated test: Latency (ns): 137.421002
+Repeated test: Bandwidth (GB/s): 0.465722
+core: 36
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.430522
+Repeated test: Latency (ns): 148.347378
+Repeated test: Bandwidth (GB/s): 0.431420
+core: 37
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.430002
+Repeated test: Latency (ns): 148.315640
+Repeated test: Bandwidth (GB/s): 0.431512
+core: 38
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.478805
+Repeated test: Latency (ns): 151.294356
+Repeated test: Bandwidth (GB/s): 0.423017
+core: 39
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.474698
+Repeated test: Latency (ns): 151.043647
+Repeated test: Bandwidth (GB/s): 0.423719
+core: 40
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.337634
+Repeated test: Latency (ns): 142.677961
+Repeated test: Bandwidth (GB/s): 0.448563
+core: 41
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.337067
+Repeated test: Latency (ns): 142.643335
+Repeated test: Bandwidth (GB/s): 0.448672
+core: 42
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.382507
+Repeated test: Latency (ns): 145.416800
+Repeated test: Bandwidth (GB/s): 0.440114
+core: 43
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.382778
+Repeated test: Latency (ns): 145.433305
+Repeated test: Bandwidth (GB/s): 0.440065
+core: 44
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.384078
+Repeated test: Latency (ns): 145.512651
+Repeated test: Bandwidth (GB/s): 0.439825
+core: 45
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.384356
+Repeated test: Latency (ns): 145.529641
+Repeated test: Bandwidth (GB/s): 0.439773
+core: 46
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251293
+Repeated test: Latency (ns): 137.408074
+Repeated test: Bandwidth (GB/s): 0.465766
+core: 47
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251744
+Repeated test: Latency (ns): 137.435635
+Repeated test: Bandwidth (GB/s): 0.465673
+core: 48
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251784
+Repeated test: Latency (ns): 137.438073
+Repeated test: Bandwidth (GB/s): 0.465665
+core: 49
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251599
+Repeated test: Latency (ns): 137.426798
+Repeated test: Bandwidth (GB/s): 0.465703
+core: 50
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.327117
+Repeated test: Latency (ns): 142.036009
+Repeated test: Bandwidth (GB/s): 0.450590
+core: 51
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.323844
+Repeated test: Latency (ns): 141.836293
+Repeated test: Bandwidth (GB/s): 0.451225
+core: 52
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251339
+Repeated test: Latency (ns): 137.410942
+Repeated test: Bandwidth (GB/s): 0.465756
+core: 53
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251052
+Repeated test: Latency (ns): 137.393410
+Repeated test: Bandwidth (GB/s): 0.465816
+core: 54
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251544
+Repeated test: Latency (ns): 137.423409
+Repeated test: Bandwidth (GB/s): 0.465714
+core: 55
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251015
+Repeated test: Latency (ns): 137.391157
+Repeated test: Bandwidth (GB/s): 0.465824
+core: 56
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251853
+Repeated test: Latency (ns): 137.442260
+Repeated test: Bandwidth (GB/s): 0.465650
+core: 57
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251782
+Repeated test: Latency (ns): 137.437955
+Repeated test: Bandwidth (GB/s): 0.465665
+core: 58
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251487
+Repeated test: Latency (ns): 137.419929
+Repeated test: Bandwidth (GB/s): 0.465726
+core: 59
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251059
+Repeated test: Latency (ns): 137.393802
+Repeated test: Bandwidth (GB/s): 0.465815
+core: 60
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251119
+Repeated test: Latency (ns): 137.397514
+Repeated test: Bandwidth (GB/s): 0.465802
+core: 61
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250905
+Repeated test: Latency (ns): 137.384434
+Repeated test: Bandwidth (GB/s): 0.465846
+core: 62
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251108
+Repeated test: Latency (ns): 137.396837
+Repeated test: Bandwidth (GB/s): 0.465804
+core: 63
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251067
+Repeated test: Latency (ns): 137.394298
+Repeated test: Bandwidth (GB/s): 0.465813
+core: 64
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.250677
+Repeated test: Latency (ns): 137.370489
+Repeated test: Bandwidth (GB/s): 0.465894
+core: 65
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251228
+Repeated test: Latency (ns): 137.404159
+Repeated test: Bandwidth (GB/s): 0.465779
+core: 66
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251865
+Repeated test: Latency (ns): 137.443036
+Repeated test: Bandwidth (GB/s): 0.465648
+core: 67
+Total buffer size: 104857600Byte
+Sequential access mode
+Interleaving num: 0
+Repetition number: 10
+Repeated test: Total Elapsed time (s): 2.251250
+Repeated test: Latency (ns): 137.405472
+Repeated test: Bandwidth (GB/s): 0.465775
+DRAM END

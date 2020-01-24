@@ -1,0 +1,47 @@
+body {
+	background-color: #f8f9fa;
+	color: #212529;
+	margin: 0;
+	padding: 0;
+	font-size: 85%;
+}
+
+.grid {
+	position: absolute;
+	width: 400px;
+	height: 300px;
+	background-color: #fff;
+	border: solid 1px;
+}
+
+.cr {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 30px;
+	height: 30px;
+	background-color: #fff;
+	border: solid 1px;
+	border-radius: 0px;
+}
+
+
+.dd {
+    position: absolute;
+    z-index: 1000;
+}
+
+.drag {
+    z-index: 1001;
+}
+
+.crtext {
+	text-align: center;
+	font-size: 60%;
+}
+
+.gridtitle {
+	text-align: center;
+}
+
+

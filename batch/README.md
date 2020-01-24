@@ -1,0 +1,4 @@
+<p>Xeon Phi MCDRAM Sample</p>
+<img src="/batch/intel_xeon_phi/v3_bigpic/snc4_mcdram.png" width="500">
+
+
