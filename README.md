@@ -32,7 +32,3 @@ TBD
 ## Contact
 
 yuki.t.ab@m.titech.ac.jp
-
-TEST
-
-
