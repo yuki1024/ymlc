@@ -30,10 +30,8 @@ You may need to modify arguments of numactl commands for your NUMA environment a
 
 This work is partly supported by a project commissioned by the New Energy and Industrial Technology Development Organization (NEDO)
 
-## License
-
-TBD
-
 ## Contact
 
 yuki.t.ab@m.titech.ac.jp
+
+Copyright (C) 2019, Tomoya Yuki. All Rights Reserved.
