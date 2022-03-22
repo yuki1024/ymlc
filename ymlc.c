@@ -13,7 +13,7 @@
 
 #define GOAL 0x11223344
 
-#define RANDOM //Random access mode; If you can disable h/w prefetch, this is not necessary.
+//#define RANDOM //Random access mode; If you can disable h/w prefetch, this is not necessary.
 
 #define REP_NUM 10
 //#define TIME_LIMIT 1 //second. overrides REP_NUM

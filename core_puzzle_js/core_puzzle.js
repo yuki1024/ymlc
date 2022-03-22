@@ -1,29 +1,38 @@
-import { json } from "/result_snedo01_snc4_ilmax_arranged.csv_json.js";
-//console.log(json);
+var json = "";
+
+function import_button_handler(){
+	document.getElementById('import_button').addEventListener('change', e => {
+		console.log(e.target.files);
+		let files = e.target.files;
+		for (let i=0; i<files.length; i++){
+			let reader = new FileReader();
+			reader.readAsText(files[i]);
+			reader.onload = function(e){ //proceed asynchronously
+				json = JSON.parse(reader.result);
+				createMainBody();
+				dragdrop();
+			}
+		}
+	});
+}
+
 
 function createMainBody(){
 	let s = '';
 
-	s+= '<div class="grid" id="grid0" style="top: 0px; left: 0px;"></div>';
-	s+= '<div class="grid" id="grid1" style="top: 0px; left: 400px;"></div>';
-	s+= '<div class="grid" id="grid2" style="top: 0px; left: 800px;"></div>';
-	s+= '<div class="grid" id="grid3" style="top: 0px; left: 1200px;"></div>';
-	s+= '<div class="grid" id="grid4" style="top: 300px; left: 0px;"></div>';
-	s+= '<div class="grid" id="grid5" style="top: 300px; left: 400px;"></div>';
-	s+= '<div class="grid" id="grid6" style="top: 300px; left: 800px;"></div>';
-	s+= '<div class="grid" id="grid7" style="top: 300px; left: 1200px;"></div>';
-	s+= '<div class="grid" id="grid8" style="top: 600px; left: 0px;"></div>';
-	s+= '<div class="grid" id="grid9" style="top: 600px; left: 400px;"></div>';
-	s+= '<div class="grid" id="grid10" style="top: 600px; left: 800px;"></div>';
-	s+= '<div class="grid" id="grid11" style="top: 600px; left: 1200px;"></div>';
+	for(let i=0; i<Object.keys(json).length; i++){
+		s+= '<div class="grid" id="grid'+i+'" style="top: ' + ((Math.floor(i/4))*30*15+100) + 'px; left: ' + (i%4)*30*20 + 'px;"></div>';
+	}
 
 	document.querySelector('#all_body').insertAdjacentHTML('beforeend', s);
 
 	for(let i=0; i<Object.keys(json).length; i++){
 		s = '';
+		//console.log(Object.keys(json).length);
 		console.log();
-		for(let j=0; j<76; j++){
-			s+= '<div class="cr core'+j+' dd" style="'+(j%2===0 ? 'display: none' : '')+'"></div>';
+		for(let j=0; j < Object.keys(json[Object.keys(json)[0]]).length; j++){
+			//s+= '<div class="cr core'+j+' dd" style="'+(j%2===0 ? 'display: none' : '')+'"></div>';
+			s+= '<div class="cr core'+j+' dd"></div>';
 		}
 		document.querySelector('#grid'+i).insertAdjacentHTML('beforeend', s);
 	}
@@ -72,13 +81,9 @@ function coloring(num,cmin,cmax){
 	return color_s;
 }
 
-//----------------------main---------------------
-createMainBody();
 
-
-//-------------------------------------------
-//copied & pasted & modified??
-(function(){
+//copied & pasted & modified
+function dragdrop(){
 
     //要素の取得
     var elements = document.getElementsByClassName("dd");
@@ -168,7 +173,10 @@ createMainBody();
         drag.classList.remove("drag");
     }
 
-})()
+}
+
+//----------------------main---------------------
+import_button_handler();
 
 
 
