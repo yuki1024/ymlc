@@ -20,7 +20,7 @@ You may need to modify arguments of numactl commands for your NUMA environment a
 ## Other Tools
 
 - [batch](/batch/): Personal scripts for experiments on many-core processors and visualizing the results.
-- [core_puzzle](https://github.com/yuki1024/core_puzzle): See core puzzle repository https://github.com/yuki1024/core_puzzle
+- [core_puzzle](https://github.com/yuki1024/core_puzzle): https://yuki1024.github.io/core_puzzle/
 
 ## References
 
