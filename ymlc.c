@@ -13,10 +13,10 @@
 
 #define GOAL 0x11223344
 
-//#define RANDOM //Random access mode; If you can disable h/w prefetch, this is not necessary.
+#define RANDOM //Random access mode; If you can disable h/w prefetch, this is not necessary.
 
 #define REP_NUM 10
-//#define TIME_LIMIT 1 //second. overrides REP_NUM
+//#define TIME_LIMIT 1 //second. This overrides REP_NUM
 
 //measure main memory latency
 #define COUNT 1638400 //Buffer size: 100MiB (64*1638400=104857600)
@@ -162,8 +162,8 @@ int main(int argc, char *argv[]){
 		lt_nsec = et_sec*1.e+9/(COUNT-1);
 		printf("First test: Latency (ns): %f\n", lt_nsec);
 
-		bw_gps = ((double)((long long int)COUNT*CACHE_LINE_SIZE))/1.e+9/et_sec;
-		printf("First test: Bandwidth (GB/s): %f\n", bw_gps);
+		//bw_gps = ((double)((long long int)COUNT*CACHE_LINE_SIZE))/1.e+9/et_sec;
+		//printf("First test: Bandwidth (GB/s): %f\n", bw_gps);
 
 		rep =  (int)(TIME_LIMIT/et_sec); //round off
 #endif
@@ -188,8 +188,8 @@ int main(int argc, char *argv[]){
 		lt_nsec = et_sec*1.e+9/(COUNT-1)/rep;
 		printf("Repeated test: Latency (ns): %f\n", lt_nsec);
 
-		bw_gps = ((double)((long long int)COUNT*CACHE_LINE_SIZE))/1.e+9/et_sec*rep;
-		printf("Repeated test: Bandwidth (GB/s): %f\n", bw_gps);
+		//bw_gps = ((double)((long long int)COUNT*CACHE_LINE_SIZE))/1.e+9/et_sec*rep;
+		//printf("Repeated test: Bandwidth (GB/s): %f\n", bw_gps);
 
 	}
 

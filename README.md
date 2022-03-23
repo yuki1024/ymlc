@@ -19,8 +19,9 @@ You may need to modify arguments of numactl commands for your NUMA environment a
 
 ## Other Tools
 
-- [batch](/batch/): Personal scripts for experiments on many-core processors and visualizing the results.
-- [core_puzzle](https://github.com/yuki1024/core_puzzle): https://yuki1024.github.io/core_puzzle/
+- [makefig](/makefig/): Scripts for batch experiment and make good pics from the results.
+- batch.sh: Scripts for batch experiment on many-core multi memory numa node environment. Outputs JSON file as a result.
+- [core_puzzle](https://github.com/yuki1024/core_puzzle): https://yuki1024.github.io/core_puzzle/  Visualizes the result of batch.sh
 
 ## References
 
