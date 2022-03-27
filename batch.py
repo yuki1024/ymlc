@@ -52,11 +52,9 @@ for mem in mems:
 			if 'Repeated test: Latency (ns): ' in line:
 				result[mem_s][str(core)]['latency'] = line.replace('Repeated test: Latency (ns): ', '')
 
-result_s = json.dumps(result)
 
 f = open('result.json', 'x')
-f.write(result_s)
-f.close
+json.dump(result, f, indent='\t')
 
 #--------------------------------------------------------
 
