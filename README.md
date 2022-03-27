@@ -14,6 +14,11 @@ run.sh make
 run.sh run
 ```
 
+Batch script
+```
+python3 batch.py
+```
+
 See [ymlc.c](/ymlc.c) and [run.sh](/run.sh) for details.
 You may need to modify arguments of numactl commands for your NUMA environment at least.
 
