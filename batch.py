@@ -80,8 +80,18 @@ for i,v in avg_d.items():
 	result['avg'][i]['latency'] = str(avg_d[i])
 #print(result)
 
+#--------------------------------------------------------
+
 f = open('result.json', 'x')
 json.dump(result, f, indent='\t')
+
+#--------------------------------------------------------
+
+
+
+
+
+
 
 
 
