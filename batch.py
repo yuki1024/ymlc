@@ -55,37 +55,33 @@ for mem in mems:
 #--------------------------------------------------------
 # Add avg
 
-avg_l = []
+avg_d = {}
 for v in list(result.values())[0]:
-	avg_l.append(0)
-#print(avg_l)
+	avg_d[v] = 0
+#print(avg_d)
 
 count = 0
 for mn_k, mn_v in result.items():
 	for k, v in mn_v.items():
-		avg_l[int(k)] += float(v['latency'])
+		avg_d[k] += float(v['latency'])
 	count += 1
-#print(avg_l)
+#print(avg_d)
 
-for i,v in enumerate(avg_l):
-	avg_l[i] /= count
-#print(avg_l)
+for i,v in avg_d.items():
+	avg_d[i] /= count
+#print(avg_d)
 
 result['avg'] = {}
-for i,v in enumerate(avg_l):
+for i,v in avg_d.items():
 	result['avg'][i] = {}
 	result['avg'][i]['position'] = {}
 	result['avg'][i]['position']['x'] = 0
 	result['avg'][i]['position']['y'] = 0
-	result['avg'][i]['latency'] = str(avg_l[i])
+	result['avg'][i]['latency'] = str(avg_d[i])
 #print(result)
 
 f = open('result.json', 'x')
 json.dump(result, f, indent='\t')
-
-#--------------------------------------------------------
-
-
 
 
 
