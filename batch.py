@@ -52,11 +52,39 @@ for mem in mems:
 			if 'Repeated test: Latency (ns): ' in line:
 				result[mem_s][str(core)]['latency'] = line.replace('Repeated test: Latency (ns): ', '')
 
+#--------------------------------------------------------
+# Add avg
+
+avg_l = []
+for v in list(result.values())[0]:
+	avg_l.append(0)
+#print(avg_l)
+
+count = 0
+for mn_k, mn_v in result.items():
+	for k, v in mn_v.items():
+		avg_l[int(k)] += float(v['latency'])
+	count += 1
+#print(avg_l)
+
+for i,v in enumerate(avg_l):
+	avg_l[i] /= count
+#print(avg_l)
+
+result['avg'] = {}
+for i,v in enumerate(avg_l):
+	result['avg'][i] = {}
+	result['avg'][i]['position'] = {}
+	result['avg'][i]['position']['x'] = 0
+	result['avg'][i]['position']['y'] = 0
+	result['avg'][i]['latency'] = str(avg_l[i])
+#print(result)
 
 f = open('result.json', 'x')
 json.dump(result, f, indent='\t')
 
 #--------------------------------------------------------
+
 
 
 
