@@ -20,7 +20,7 @@ for mn_k, mn_v in j_in.items():
 #print(avg_l)
 
 for i,v in enumerate(avg_l):
-	avg_l[i] /= 4
+	avg_l[i] /= count
 #print(avg_l)
 
 j_in['avg'] = {}
